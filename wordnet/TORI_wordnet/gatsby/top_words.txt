@@ -1,0 +1,21 @@
+Top 20 words related to physical appearance or body parts, ordered by frequency:
+eyes: 86 occurrences
+hand: 58 occurrences
+face: 51 occurrences
+head: 37 occurrences
+hands: 37 occurrences
+hair: 22 occurrences
+body: 19 occurrences
+mouth: 14 occurrences
+arm: 14 occurrences
+shoulder: 13 occurrences
+arms: 13 occurrences
+faces: 12 occurrences
+nose: 12 occurrences
+lips: 11 occurrences
+feet: 11 occurrences
+fingers: 10 occurrences
+ear: 8 occurrences
+heart: 7 occurrences
+back: 7 occurrences
+tears: 6 occurrences

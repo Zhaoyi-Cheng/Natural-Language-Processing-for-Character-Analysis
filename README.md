@@ -1,4 +1,4 @@
-Natural Language Processing for Character Analysis
+##Natural Language Processing for Character Analysis
 This project focuses on character analysis for books available on Project Gutenberg, leveraging various Natural Language Processing (NLP) techniques.
 
 Project Overview

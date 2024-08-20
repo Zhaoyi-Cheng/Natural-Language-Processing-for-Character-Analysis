@@ -1,0 +1,720 @@
+42 1671 Alice she/her
+
+	poss	19 head
+	poss	8 sister
+	poss	8 life
+	poss	7 face
+	poss	5 feet
+	poss	5 eyes
+	poss	5 hands
+	poss	4 hand
+	poss	4 way
+	poss	4 size
+	poss	4 flamingo
+	poss	3 knowledge
+	poss	3 eye
+	poss	3 pocket
+	poss	3 neck
+	poss	3 foot
+	poss	3 arm
+	poss	2 Adventures
+	poss	2 mind
+	poss	2 dear
+
+	agent	166 said
+	agent	56 thought
+	agent	39 went
+	agent	38 know
+	agent	35 think
+	agent	30 began
+	agent	29 see
+	agent	25 had
+	agent	23 heard
+	agent	22 looked
+	agent	22 got
+	agent	21 found
+	agent	21 ’m
+	agent	20 felt
+	agent	16 like
+	agent	15 put
+	agent	15 replied
+	agent	14 tried
+	agent	13 wish
+	agent	12 wonder
+
+	patient	7 tell
+	patient	4 found
+	patient	4 changed
+	patient	4 puzzled
+	patient	3 thought
+	patient	3 exclaimed
+	patient	2 think
+	patient	2 DRINK
+	patient	2 pleaded
+	patient	2 left
+	patient	2 hit
+	patient	2 used
+	patient	2 hear
+	patient	2 checked
+	patient	2 join
+	patient	1 stopping
+	patient	1 miss
+	patient	1 tired
+	patient	1 scolded
+	patient	1 cheated
+
+	mod	4 surprised
+	mod	3 deal
+	mod	2 high
+	mod	2 size
+	mod	2 ready
+	mod	2 frightened
+	mod	2 old
+	mod	2 silent
+	mod	2 afraid
+	mod	2 glad
+	mod	1 hurt
+	mod	1 passage
+	mod	1 close
+	mod	1 kind
+	mod	1 same
+	mod	1 older
+	mod	1 large
+	mod	1 small
+	mod	1 tired
+	mod	1 content
+
+58 102 the Hatter he/him/his
+
+	poss	1 speech
+	poss	1 eyes
+	poss	1 watch
+	poss	1 pocket
+	poss	1 ear
+	poss	1 head
+	poss	1 spoon
+	poss	1 tea
+	poss	1 own
+	poss	1 evidence
+	poss	1 teacup
+	poss	1 bread
+
+	agent	16 said
+	agent	3 see
+	agent	3 added
+	agent	3 do
+	agent	3 finished
+	agent	3 went
+	agent	3 ’m
+	agent	2 looking
+	agent	2 eat
+	agent	2 poured
+	agent	2 mean
+	agent	2 know
+	agent	2 ask
+	agent	2 keep
+	agent	2 say
+	agent	2 began
+	agent	1 having
+	agent	1 learn
+	agent	1 opened
+	agent	1 hesaidwas
+
+	patient	1 see
+	patient	1 sighed
+	patient	1 muttered
+	patient	1 understand
+	patient	1 sent
+	patient	1 followed
+
+	mod	1 first
+
+72 93 the Mock Turtle he/him/his
+
+	poss	3 voice
+	poss	1 history
+	poss	1 heart
+	poss	1 sorrow
+	poss	1 fancy
+	poss	1 flappers
+	poss	1 eyes
+	poss	1 throat
+	poss	1 cheeks
+	poss	1 sobs
+
+	agent	22 said
+	agent	6 went
+	agent	3 replied
+	agent	2 sighed
+	agent	2 drew
+	agent	2 looked
+	agent	2 choked
+	agent	2 have
+	agent	1 sighing
+	agent	1 got
+	agent	1 tell
+	agent	1 finished
+	agent	1 caneverfinish
+	agent	1 begin
+	agent	1 call
+	agent	1 wanted
+	agent	1 afford
+	agent	1 took
+	agent	1 learn
+	agent	1 ’m
+
+	patient	2 cried
+	patient	1 seen
+	patient	1 made
+	patient	1 see
+	patient	1 saw
+	patient	1 pitied
+	patient	1 asked
+	patient	1 shaking
+	patient	1 punching
+	patient	1 introduced
+	patient	1 like
+
+
+73 56 the Gryphon they/them/their
+
+	poss	1 story
+	poss	1 voice
+
+	agent	18 said
+	agent	2 went
+	agent	1 sat
+	agent	1 rubbed
+	agent	1 watched
+	agent	1 answered
+	agent	1 lifted
+	agent	1 exclaimed
+	agent	1 suppose
+	agent	1 learnt
+	agent	1 hid
+	agent	1 interrupted
+	agent	1 set
+	agent	1 know
+	agent	1 forgotten
+	agent	1 replied
+	agent	1 done
+	agent	1 added
+	agent	1 whispered
+
+	patient	3 cried
+	patient	2 added
+	patient	1 asked
+	patient	1 Thank
+	patient	1 interrupted
+	patient	1 continued
+	patient	1 shouted
+	patient	1 screamed
+	patient	1 yelled
+
+
+27 43 the Mouse he/him/his
+
+	poss	2 tail
+	poss	2 story
+	poss	1 dear
+	poss	1 history
+	poss	1 pardon
+	poss	1 mind
+
+	agent	7 said
+	agent	3 know
+	agent	2 seemed
+	agent	1 looked
+	agent	1 gave
+	agent	1 cried
+	agent	1 bristling
+	agent	1 answer
+	agent	1 heard
+	agent	1 beg
+	agent	1 replied
+	agent	1 notice
+	agent	1 went
+	agent	1 promised
+	agent	1 call
+	agent	1 speaking
+	agent	1 got
+	agent	1 do
+	agent	1 growled
+	agent	1 shook
+
+	patient	1 begged
+	patient	1 insult
+	patient	1 offended
+
+
+59 42 the Dormouse they/them/their
+
+	poss	2 eyes
+	poss	1 head
+
+	agent	10 said
+	agent	2 breathe
+	agent	2 sleep
+	agent	2 going
+	agent	1 added
+	agent	1 shook
+	agent	1 opened
+	agent	1 began
+	agent	1 took
+	agent	1 remarked
+	agent	1 draw
+	agent	1 wereinthe
+	agent	1 go
+	agent	1 learning
+	agent	1 went
+	agent	1 drew
+	agent	1 closed
+	agent	1 know
+	agent	1 growing
+	agent	1 crossed
+
+	patient	1 remark
+	patient	1 offend
+	patient	1 put
+	patient	1 added
+
+	mod	1 asleep
+
+20 35 the White Rabbit he/him/his
+
+	poss	1 waistcoat
+	poss	1 gloves
+	poss	1 spectacles
+
+	agent	4 said
+	agent	1 say
+	agent	1 actuallytook
+	agent	1 looked
+	agent	1 pop
+	agent	1 came
+	agent	1 please
+	agent	1 started
+	agent	1 dropped
+	agent	1 go
+	agent	1 cried
+	agent	1 blew
+	agent	1 unrolled
+	agent	1 fumbled
+	agent	1 opened
+	agent	1 seems
+	agent	1 unfolded
+	agent	1 added
+	agent	1 spoke
+	agent	1 ’s
+
+	patient	1 saw
+	patient	1 watched
+
+	mod	1 late
+
+57 32 the March Hare he/him/his
+
+	poss	1 cup
+	poss	1 remark
+	poss	1 shoulder
+
+	agent	8 said
+	agent	2 went
+	agent	2 get
+	agent	2 took
+	agent	2 looked
+	agent	2 think
+	agent	1 added
+	agent	1 like
+	agent	1 dipped
+	agent	1 interrupted
+	agent	1 getting
+	agent	1 vote
+	agent	1 moved
+	agent	1 deny
+
+
+
+23 30 Dinah she/her
+
+	poss	1 saucer
+	poss	1 paws
+	poss	1 face
+
+	agent	4 ’s
+	agent	2 eat
+	agent	1 sits
+	agent	1 fetch
+	agent	1 stop
+
+	patient	3 see
+	patient	1 show
+	patient	1 had
+	patient	1 mentioned
+	patient	1 like
+	patient	1 set
+
+	mod	2 thing
+	mod	1 cat
+
+48 26 the Caterpillar she/her
+
+	poss	1 suchveryshort
+
+	agent	11 said
+	agent	2 ’m
+	agent	2 put
+	agent	2 took
+	agent	1 looked
+	agent	1 see
+	agent	1 unfolded
+	agent	1 tried
+	agent	1 came
+	agent	1 yawned
+	agent	1 shook
+	agent	1 asked
+
+	patient	1 said
+	patient	1 rearing
+
+	mod	1 first
+
+41 25 the Rabbit he/him/his
+
+	poss	2 voice
+	poss	1 shoulder
+	poss	1 mouth
+
+	agent	3 ’m
+	agent	2 said
+	agent	2 know
+	agent	1 pronounced
+	agent	1 like
+	agent	1 goes
+	agent	1 do
+	agent	1 say
+	agent	1 looked
+	agent	1 raised
+	agent	1 spoke
+
+	patient	1 help
+	patient	1 tell
+	patient	1 raised
+
+
+44 18 Bill he/him/his
+
+	poss	1 place
+	poss	1 head
+
+	agent	2 got
+	agent	1 fetch
+	agent	1 put
+	agent	1 ’re
+	agent	1 has
+
+	patient	1 along—“Catch
+	patient	1 choke
+
+
+50 16 the Pigeon they/them/their
+
+	poss	1 time
+
+	agent	4 said
+	agent	1 finished
+	agent	1 see
+	agent	1 seen
+	agent	1 suppose
+	agent	1 telling
+	agent	1 tasted
+	agent	1 know
+	agent	1 believe
+	agent	1 say
+
+	patient	1 screamed
+	patient	1 telling
+
+
+79 16 the Lobster he/him/his
+
+	poss	2 buttons
+	poss	2 toes
+	poss	2 garden
+	poss	1 hair
+	poss	1 noseTrims
+	poss	1 belt
+	poss	1 voice
+	poss	1 nose
+
+	agent	1 baked
+	agent	1 sugar
+
+	patient	1 baked
+
+	mod	1 gay
+
+35 15 the Dodo they/them/their
+
+	poss	1 feet
+	poss	1 forehead
+
+	agent	4 said
+	agent	1 move
+	agent	1 going
+	agent	1 paused
+	agent	1 seemed
+	agent	1 thought
+	agent	1 managed
+	agent	1 called
+	agent	1 answer
+
+
+
+66 15 The Knave he/him/his
+
+	poss	1 head
+
+	agent	2 did
+	agent	2 said
+	agent	1 write
+	agent	1 ’s
+	agent	1 swim
+	agent	1 shook
+	agent	1 look
+	agent	1 know
+
+	patient	1 followed
+
+
+55 14 the Cat he/him/his
+
+	poss	2 head
+
+	agent	3 said
+	agent	1 sitting
+	agent	1 grinned
+	agent	1 saw
+	agent	1 looked
+	agent	1 seemed
+	agent	1 appeared
+	agent	1 ’s
+
+	patient	1 introduce
+
+
+64 12 Seven he/him/his
+
+	poss	1 brush
+	poss	1 eye
+
+	agent	3 looked
+	agent	3 said
+	agent	1 jogged
+	agent	1 flung
+	agent	1 begun
+	agent	1 checked
+	agent	1 tell
+	agent	1 painting
+
+	patient	1 tell
+	patient	1 checked
+
+
+52 11 the Fish - Footman he/him/his
+
+	poss	1 head
+	poss	1 nose
+	poss	1 remark
+
+	agent	1 seemed
+	agent	1 sit
+	agent	1 said
+	agent	1 ’s
+
+	patient	1 peeped
+
+
+63 11 Five he/him/his
+
+	poss	1 elbow
+
+	agent	4 said
+	agent	2 tell
+	agent	1 help
+	agent	1 heard
+	agent	1 deserved
+	agent	1 looked
+
+
+
+29 10 the Lory she/her
+
+	poss	1 age
+	poss	1 pardon
+
+	agent	4 said
+	agent	1 refused
+	agent	1 speak
+	agent	1 did
+	agent	1 venture
+
+
+
+28 6 William the Conqueror he/him/his
+
+	poss	1 conduct
+	poss	1 Normans
+
+
+	patient	1 submitted
+	patient	1 meet
+
+
+49 5 Father William he/him/his
+
+	poss	1 son,“I
+
+	agent	1 replied
+
+
+
+67 5 QUEEN OF HEARTS she/her
+
+	poss	1 absence
+
+	agent	1 came
+	agent	1 made
+
+	patient	1 saw
+
+
+25 4 Ada she/her
+
+	poss	1 hair
+
+	agent	1 knows
+
+
+
+26 4 Mabel she/her
+
+
+
+
+
+33 4 the Duck he/him/his
+
+
+	agent	2 said
+	agent	2 know
+
+
+
+36 4 the Eaglet he/him/his
+
+
+	agent	2 believe
+	agent	1 said
+	agent	1 know
+	agent	1 bent
+
+
+
+40 4 Mary Ann she/her
+
+
+	agent	1 said
+
+	patient	1 meet
+
+
+43 4 Pat she/her
+
+
+	agent	1 goose
+
+	patient	2 tell
+
+
+65 4 Two he/him/his
+
+
+	agent	1 began
+	agent	1 said
+	agent	1 spoke
+
+
+
+30 3 Edwin he/him/his
+
+
+	agent	1 said
+	agent	1 declared
+	agent	1 found
+
+
+
+53 3 the Duchess she/her
+
+
+	agent	1 sneezing
+	agent	1 howling
+	agent	1 said
+	agent	1 ’s
+
+
+
+74 3 Tortoise he/him/his
+
+
+
+
+
+82 3 the Panther she/her
+
+
+	agent	1 sharing
+	agent	1 took
+	agent	1 received
+	agent	1 fork
+
+
+
+22 2 Dinah’ll they/them/their
+
+
+	agent	1 miss
+	agent	1 sending
+
+
+
+31 2 Morcar he/him/his
+
+
+	agent	1 said
+	agent	1 declared
+	agent	1 found
+
+
+
+37 2 Shakespeare he/him/his
+
+
+
+	patient	1 see
+
+
+51 2 Serpent he/him/his
+
+
+
+
+
+68 2 Consider he/him/his
+
+
+	agent	1 make
+
+
+

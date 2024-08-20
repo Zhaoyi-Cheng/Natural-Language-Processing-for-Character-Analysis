@@ -1,0 +1,4560 @@
+165 5310 Jo she/her
+
+	poss	48 mother
+	poss	43 heart
+	poss	33 head
+	poss	33 sister
+	poss	32 face
+	poss	28 eyes
+	poss	21 father
+	poss	19 hands
+	poss	16 hair
+	poss	16 friend
+	poss	15 hand
+	poss	15 life
+	poss	14 mind
+	poss	12 hat
+	poss	12 things
+	poss	11 tongue
+	poss	11 work
+	poss	10 nose
+	poss	10 cheeks
+	poss	10 book
+
+	agent	176 said
+	agent	64 do
+	agent	63 know
+	agent	61 had
+	agent	57 cried
+	agent	49 go
+	agent	47 think
+	agent	44 have
+	agent	44 thought
+	agent	42 looked
+	agent	41 got
+	agent	36 went
+	agent	35 like
+	agent	35 felt
+	agent	34 saw
+	agent	33 found
+	agent	30 see
+	agent	29 knew
+	agent	29 told
+	agent	27 took
+
+	patient	31 asked
+	patient	22 tell
+	patient	16 told
+	patient	15 help
+	patient	12 returned
+	patient	7 keep
+	patient	6 thank
+	patient	6 sighed
+	patient	6 see
+	patient	6 loved
+	patient	5 put
+	patient	5 left
+	patient	5 enjoy
+	patient	4 round
+	patient	4 cried
+	patient	4 suited
+	patient	4 take
+	patient	4 suit
+	patient	4 amused
+	patient	4 liked
+
+	mod	14 afraid
+	mod	13 glad
+	mod	12 sorry
+	mod	11 right
+	mod	10 happy
+	mod	8 sure
+	mod	7 tired
+	mod	6 good
+	mod	5 busy
+	mod	4 ashamed
+	mod	4 mistaken
+	mod	4 asleep
+	mod	4 kind
+	mod	3 dear
+	mod	3 man
+	mod	3 stupid
+	mod	3 fond
+	mod	3 silly
+	mod	3 able
+	mod	3 girl
+
+227 2952 Laurie he/him/his
+
+	poss	21 eyes
+	poss	18 grandfather
+	poss	17 head
+	poss	13 face
+	poss	10 life
+	poss	10 heart
+	poss	10 friends
+	poss	9 mother
+	poss	9 mind
+	poss	7 hand
+	poss	7 grandpa
+	poss	7 arm
+	poss	7 love
+	poss	7 place
+	poss	7 hands
+	poss	7 word
+	poss	7 way
+	poss	6 neck
+	poss	6 arms
+	poss	6 hat
+
+	agent	78 said
+	agent	58 do
+	agent	36 like
+	agent	35 know
+	agent	31 come
+	agent	28 looked
+	agent	26 got
+	agent	23 went
+	agent	23 did
+	agent	23 get
+	agent	22 see
+	agent	21 going
+	agent	21 had
+	agent	21 have
+	agent	21 came
+	agent	20 tell
+	agent	19 thought
+	agent	19 say
+	agent	17 give
+	agent	16 go
+
+	patient	21 asked
+	patient	13 tell
+	patient	11 ask
+	patient	8 thank
+	patient	7 love
+	patient	6 told
+	patient	6 amuse
+	patient	6 please
+	patient	5 threw
+	patient	5 let
+	patient	5 Thank
+	patient	5 saw
+	patient	4 kissed
+	patient	4 see
+	patient	4 help
+	patient	4 returned
+	patient	3 do
+	patient	3 have
+	patient	3 took
+	patient	3 like
+
+	mod	8 afraid
+	mod	7 boy
+	mod	6 kind
+	mod	5 tired
+	mod	5 good
+	mod	4 sure
+	mod	4 lazy
+	mod	3 proud
+	mod	3 nice
+	mod	3 old
+	mod	3 grateful
+	mod	3 glad
+	mod	3 ready
+	mod	3 generous
+	mod	2 sick
+	mod	2 bother
+	mod	2 deal
+	mod	2 quick
+	mod	2 rich
+	mod	2 sorry
+
+167 2607 Amy she/her
+
+	poss	19 mother
+	poss	18 head
+	poss	17 eyes
+	poss	15 heart
+	poss	13 dress
+	poss	12 face
+	poss	11 nose
+	poss	11 sister
+	poss	10 hands
+	poss	10 hand
+	poss	10 book
+	poss	10 hair
+	poss	7 sisters
+	poss	7 life
+	poss	7 feet
+	poss	7 mind
+	poss	6 friend
+	poss	6 voice
+	poss	6 table
+	poss	5 curls
+
+	agent	71 said
+	agent	29 have
+	agent	27 know
+	agent	26 think
+	agent	26 had
+	agent	25 looked
+	agent	24 do
+	agent	24 like
+	agent	21 go
+	agent	20 got
+	agent	18 wish
+	agent	17 felt
+	agent	17 want
+	agent	16 see
+	agent	15 went
+	agent	14 try
+	agent	13 did
+	agent	13 going
+	agent	13 put
+	agent	13 found
+
+	patient	12 asked
+	patient	11 tell
+	patient	7 told
+	patient	6 help
+	patient	6 left
+	patient	5 called
+	patient	5 remind
+	patient	5 Thank
+	patient	4 forgive
+	patient	4 keep
+	patient	3 console
+	patient	3 take
+	patient	3 took
+	patient	3 comfort
+	patient	3 see
+	patient	2 forget
+	patient	2 struck
+	patient	2 helped
+	patient	2 touched
+	patient	2 rescue
+
+	mod	10 glad
+	mod	5 sure
+	mod	5 sick
+	mod	4 sorry
+	mod	4 willing
+	mod	3 favorite
+	mod	3 proud
+	mod	3 ready
+	mod	3 satisfied
+	mod	3 afraid
+	mod	3 woman
+	mod	2 girl
+	mod	2 asleep
+	mod	2 safe
+	mod	2 apt
+	mod	2 model
+	mod	2 young
+	mod	2 happy
+	mod	2 kind
+	mod	1 opinion
+
+199 1332 Meg he/him/his
+
+	poss	7 hair
+	poss	6 face
+	poss	4 book
+	poss	4 dress
+	poss	4 life
+	poss	3 eyes
+	poss	3 umbrella
+	poss	3 castle
+	poss	2 slippers
+	poss	2 glove
+	poss	2 suit
+	poss	2 hat
+	poss	2 partner
+	poss	2 friend
+	poss	2 age
+	poss	2 sister
+	poss	2 lessons
+	poss	2 mouth
+	poss	2 work
+	poss	2 speech
+
+	agent	75 said
+	agent	22 had
+	agent	19 have
+	agent	17 began
+	agent	17 do
+	agent	16 know
+	agent	15 like
+	agent	14 go
+	agent	14 looked
+	agent	13 think
+	agent	12 got
+	agent	12 felt
+	agent	11 cried
+	agent	11 went
+	agent	11 answered
+	agent	11 thought
+	agent	10 tell
+	agent	10 see
+	agent	10 say
+	agent	10 want
+
+	patient	17 asked
+	patient	9 tell
+	patient	4 cried
+	patient	4 see
+	patient	3 help
+	patient	3 exclaimed
+	patient	3 Thank
+	patient	3 thank
+	patient	2 sighed
+	patient	2 spoilt
+	patient	2 began
+	patient	2 suit
+	patient	2 answered
+	patient	2 Forgive
+	patient	2 liked
+	patient	2 trouble
+	patient	2 concerned
+	patient	2 give
+	patient	2 wish
+	patient	1 woke
+
+	mod	8 sure
+	mod	8 afraid
+	mod	6 glad
+	mod	5 kind
+	mod	4 happy
+	mod	4 sorry
+	mod	3 grateful
+	mod	3 ready
+	mod	3 young
+	mod	2 oldest
+	mod	2 prim
+	mod	2 fond
+	mod	2 worried
+	mod	1 actress
+	mod	1 eighteen
+	mod	1 mortified
+	mod	1 confidant
+	mod	1 monitor
+	mod	1 quiet
+	mod	1 pensive
+
+166 1243 Beth she/her
+
+	poss	12 mother
+	poss	12 hands
+	poss	12 face
+	poss	8 head
+	poss	8 sister
+	poss	7 father
+	poss	6 sisters
+	poss	6 way
+	poss	6 hand
+	poss	6 heart
+	poss	4 sofa
+	poss	4 music
+	poss	4 eyes
+	poss	4 life
+	poss	4 piano
+	poss	3 corner
+	poss	3 voice
+	poss	3 bed
+	poss	3 cats
+	poss	3 cheeks
+
+	agent	44 said
+	agent	15 have
+	agent	14 had
+	agent	14 go
+	agent	14 went
+	agent	13 thought
+	agent	11 lay
+	agent	10 looked
+	agent	10 got
+	agent	9 found
+	agent	8 put
+	agent	8 get
+	agent	8 took
+	agent	8 tried
+	agent	8 know
+	agent	8 say
+	agent	7 think
+	agent	7 want
+	agent	7 did
+	agent	7 made
+
+	patient	9 asked
+	patient	3 see
+	patient	3 comfort
+	patient	3 help
+	patient	2 tell
+	patient	2 frightened
+	patient	2 took
+	patient	2 given
+	patient	2 kissed
+	patient	2 gave
+	patient	2 helped
+	patient	2 sent
+	patient	2 left
+	patient	2 troubled
+	patient	2 keep
+	patient	2 spares
+	patient	2 watching
+	patient	2 take
+	patient	2 forget
+	patient	1 sang
+
+	mod	7 glad
+	mod	4 able
+	mod	4 girl
+	mod	3 afraid
+	mod	2 good
+	mod	2 one
+	mod	2 happy
+	mod	2 sick
+	mod	2 well
+	mod	2 full
+	mod	2 worse
+	mod	2 sorry
+	mod	2 selfish
+	mod	2 better
+	mod	1 handsomest
+	mod	1 bashful
+	mod	1 creature
+	mod	1 bee
+	mod	1 child
+	mod	1 alone
+
+193 520 Mrs. March she/her
+
+	poss	8 girls
+	poss	6 daughters
+	poss	6 husband
+	poss	4 children
+	poss	4 face
+	poss	4 hand
+	poss	3 daughter
+	poss	3 dear
+	poss	2 way
+	poss	2 pocket
+	poss	2 voice
+	poss	2 eyes
+	poss	2 sister
+	poss	2 letter
+	poss	2 child
+	poss	2 lips
+	poss	2 heart
+	poss	2 chair
+	poss	2 arms
+	poss	2 darlings
+
+	agent	37 said
+	agent	10 want
+	agent	9 think
+	agent	9 have
+	agent	8 know
+	agent	8 looked
+	agent	7 asked
+	agent	6 smiled
+	agent	5 leave
+	agent	5 gave
+	agent	5 came
+	agent	5 go
+	agent	5 went
+	agent	4 get
+	agent	4 began
+	agent	4 knew
+	agent	4 wanted
+	agent	4 hope
+	agent	4 did
+	agent	4 going
+
+	patient	3 Leaving
+	patient	3 asked
+	patient	2 help
+	patient	1 play
+	patient	1 drive
+	patient	1 troubles
+	patient	1 Tell
+	patient	1 comforted
+	patient	1 showed
+	patient	1 rebuked
+	patient	1 contented
+	patient	1 dressed
+	patient	1 called
+	patient	1 flattered
+	patient	1 provided
+	patient	1 disturb
+	patient	1 amuse
+	patient	1 Thank
+	patient	1 gave
+	patient	1 thank
+
+	mod	4 sorry
+	mod	4 glad
+	mod	3 sure
+	mod	3 afraid
+	mod	2 ashamed
+	mod	1 surprised
+	mod	1 busy
+	mod	1 example
+	mod	1 proper
+	mod	1 beauty
+	mod	1 unwise
+	mod	1 ambitious
+	mod	1 proud
+	mod	1 kind
+	mod	1 dear
+	mod	1 anxious
+	mod	1 deep
+	mod	1 young
+	mod	1 grateful
+	mod	1 equal
+
+282 498 Meg she/her
+
+	poss	8 mother
+	poss	4 hands
+	poss	3 cheeks
+	poss	3 chair
+	poss	2 head
+	poss	2 things
+	poss	2 forehead
+	poss	2 skirt
+	poss	2 life
+	poss	2 sister
+	poss	2 hair
+	poss	2 husband
+	poss	2 room
+	poss	1 friend
+	poss	1 air
+	poss	1 tone
+	poss	1 waltz
+	poss	1 breath
+	poss	1 glass
+	poss	1 fan
+
+	agent	20 said
+	agent	10 sat
+	agent	7 know
+	agent	6 asked
+	agent	6 want
+	agent	5 saw
+	agent	5 have
+	agent	5 put
+	agent	5 had
+	agent	5 left
+	agent	5 make
+	agent	5 did
+	agent	4 stood
+	agent	4 do
+	agent	4 tell
+	agent	4 think
+	agent	4 go
+	agent	4 got
+	agent	3 heard
+	agent	3 let
+
+	patient	4 asked
+	patient	2 dressed
+	patient	2 show
+	patient	1 change
+	patient	1 know
+	patient	1 saw
+	patient	1 like
+	patient	1 abashed
+	patient	1 sighed
+	patient	1 touched
+	patient	1 fanning
+	patient	1 enjoyed
+	patient	1 forgive
+	patient	1 done
+	patient	1 hurt
+	patient	1 thank
+	patient	1 understand
+	patient	1 exclaimed
+	patient	1 routed
+	patient	1 returned
+
+	mod	2 afraid
+	mod	2 girl
+	mod	2 sure
+	mod	1 glad
+	mod	1 sensible
+	mod	1 goose
+	mod	1 doll
+	mod	1 tired
+	mod	1 sick
+	mod	1 angry
+	mod	1 ashamed
+	mod	1 mother
+	mod	1 fit
+	mod	1 happy
+	mod	1 beloved
+	mod	1 minded
+	mod	1 free
+	mod	1 mistress
+	mod	1 fond
+	mod	1 thing
+
+203 421 Mr. Bhaer he/him/his
+
+	poss	6 face
+	poss	3 hands
+	poss	3 friend
+	poss	3 head
+	poss	3 arm
+	poss	2 knees
+	poss	2 room
+	poss	2 things
+	poss	2 forehead
+	poss	2 eyes
+	poss	2 hand
+	poss	2 coat
+	poss	2 glass
+	poss	2 gear
+	poss	2 laugh
+	poss	2 hair
+	poss	2 eye
+	poss	1 name
+	poss	1 ways
+	poss	1 back
+
+	agent	8 said
+	agent	8 asked
+	agent	7 go
+	agent	7 haf
+	agent	6 came
+	agent	5 come
+	agent	4 had
+	agent	4 spoke
+	agent	4 going
+	agent	4 looked
+	agent	4 seemed
+	agent	3 sang
+	agent	3 enjoying
+	agent	3 looking
+	agent	3 gave
+	agent	3 look
+	agent	3 put
+	agent	3 watched
+	agent	3 think
+	agent	3 read
+
+	patient	3 meet
+	patient	2 suit
+	patient	2 see
+	patient	2 thank
+	patient	2 brought
+	patient	2 bring
+	patient	1 follows
+	patient	1 delights
+	patient	1 regard
+	patient	1 quiz
+	patient	1 call
+	patient	1 leading
+	patient	1 scold
+	patient	1 Read
+	patient	1 had
+	patient	1 took
+	patient	1 surprised
+	patient	1 liked
+	patient	1 watched
+	patient	1 touched
+
+	mod	2 man
+	mod	1 fond
+	mod	1 minded
+	mod	1 natured
+	mod	1 rich
+	mod	1 great
+	mod	1 young
+	mod	1 attractive
+	mod	1 poor
+	mod	1 silent
+	mod	1 attraction
+	mod	1 busy
+	mod	1 glad
+	mod	1 bold
+	mod	1 satisfied
+	mod	1 afraid
+
+185 392 Meg she/her
+
+	poss	4 mother
+	poss	4 heart
+	poss	3 head
+	poss	3 husband
+	poss	3 eyes
+	poss	2 hair
+	poss	2 spirits
+	poss	2 duty
+	poss	2 son
+	poss	2 boy
+	poss	2 babies
+	poss	2 hand
+	poss	2 mind
+	poss	2 castle
+	poss	1 face
+	poss	1 partner
+	poss	1 dress
+	poss	1 lessons
+	poss	1 dresses
+	poss	1 father
+
+	agent	7 said
+	agent	6 say
+	agent	6 made
+	agent	6 go
+	agent	5 have
+	agent	4 found
+	agent	4 felt
+	agent	4 set
+	agent	4 slipped
+	agent	4 keep
+	agent	3 thought
+	agent	3 know
+	agent	3 began
+	agent	3 like
+	agent	3 call
+	agent	3 think
+	agent	3 knew
+	agent	2 shook
+	agent	2 wanted
+	agent	2 mean
+
+	patient	2 show
+	patient	2 took
+	patient	1 sighed
+	patient	1 enjoy
+	patient	1 keeps
+	patient	1 worries
+	patient	1 plague
+	patient	1 insult
+	patient	1 Dear
+	patient	1 contradicted
+	patient	1 call
+	patient	1 love
+	patient	1 found
+	patient	1 neglect
+	patient	1 draw
+	patient	1 separate
+	patient	1 dressed
+	patient	1 announced
+	patient	1 mind
+	patient	1 bids
+
+	mod	1 afraid
+	mod	1 ready
+	mod	1 statirical
+	mod	1 nervous
+	mod	1 thin
+	mod	1 pale
+	mod	1 person
+	mod	1 frightened
+	mod	1 happy
+	mod	1 glad
+	mod	1 angelic
+	mod	1 children
+	mod	1 satisfied
+
+201 308 John she/her
+
+	poss	2 head
+	poss	2 money
+	poss	2 wife
+	poss	2 dear
+	poss	2 sake
+	poss	1 name
+	poss	1 devotion
+	poss	1 dignity
+	poss	1 cravat
+	poss	1 hammer
+	poss	1 apron
+	poss	1 girl
+	poss	1 book
+	poss	1 eye
+	poss	1 size
+	poss	1 tears
+	poss	1 part
+	poss	1 child
+	poss	1 man
+	poss	1 bonnet
+
+	agent	9 said
+	agent	7 do
+	agent	7 have
+	agent	6 know
+	agent	6 had
+	agent	6 think
+	agent	5 see
+	agent	4 laughed
+	agent	4 find
+	agent	4 thought
+	agent	4 like
+	agent	3 going
+	agent	3 went
+	agent	3 got
+	agent	2 love
+	agent	2 did
+	agent	2 sent
+	agent	2 took
+	agent	2 felt
+	agent	2 sat
+
+	patient	3 told
+	patient	1 established
+	patient	1 love
+	patient	1 said
+	patient	1 accept
+	patient	1 defend
+	patient	1 like
+	patient	1 loving
+	patient	1 requested
+	patient	1 Congratulating
+	patient	1 look
+	patient	1 hang
+	patient	1 Forgive
+	patient	1 pitying
+	patient	1 miss
+	patient	1 absorbed
+	patient	1 widowed
+	patient	1 replied
+	patient	1 blame
+	patient	1 neglect
+
+	mod	3 man
+	mod	2 sorry
+	mod	2 busy
+	mod	2 angry
+	mod	1 good
+	mod	1 wise
+	mod	1 hammer
+	mod	1 fond
+	mod	1 afraid
+	mod	1 disappointed
+	mod	1 ashamed
+	mod	1 proud
+	mod	1 tired
+	mod	1 interested
+	mod	1 sensible
+	mod	1 stranger
+	mod	1 harsh
+	mod	1 glad
+
+232 251 Hannah she/her
+
+	poss	3 foot
+	poss	3 hands
+	poss	3 head
+	poss	2 things
+	poss	2 one
+	poss	2 face
+	poss	2 apron
+	poss	2 lips
+	poss	1 cloak
+	poss	1 own
+	poss	1 fist
+	poss	1 pestle
+	poss	1 promise
+	poss	1 caps
+	poss	1 sisters
+	poss	1 father
+	poss	1 cheeks
+	poss	1 gentleness
+	poss	1 poverty
+	poss	1 heart
+
+	agent	15 said
+	agent	6 came
+	agent	5 had
+	agent	5 says
+	agent	4 see
+	agent	3 made
+	agent	3 left
+	agent	3 did
+	agent	2 appeared
+	agent	2 comes
+	agent	2 cried
+	agent	2 know
+	agent	2 differed
+	agent	2 put
+	agent	2 called
+	agent	2 set
+	agent	2 come
+	agent	2 tell
+	agent	2 have
+	agent	2 calls
+
+	patient	2 consult
+	patient	2 help
+	patient	1 send
+	patient	1 forced
+	patient	1 suit
+	patient	1 envied
+	patient	1 petted
+	patient	1 called
+	patient	1 nudge
+	patient	1 see
+	patient	1 tell
+	patient	1 Ask
+	patient	1 call
+	patient	1 ask
+	patient	1 mind
+	patient	1 proved
+	patient	1 discovered
+	patient	1 thank
+	patient	1 aggravated
+	patient	1 forgetting
+
+	mod	1 busy
+	mod	1 grumpy
+	mod	1 proud
+	mod	1 afraid
+	mod	1 first
+	mod	1 saint
+	mod	1 servant
+	mod	1 sound
+	mod	1 nurse
+
+182 204 Aunt March she/her
+
+	poss	4 dear
+	poss	3 heart
+	poss	2 head
+	poss	2 advice
+	poss	2 spectacles
+	poss	2 chair
+	poss	2 mind
+	poss	1 piece
+	poss	1 nap
+	poss	1 book
+	poss	1 salary
+	poss	1 hospitality
+	poss	1 nephew
+	poss	1 best
+	poss	1 sister
+	poss	1 eye
+	poss	1 father
+	poss	1 day
+	poss	1 lover
+	poss	1 daughter
+
+	agent	6 had
+	agent	6 said
+	agent	5 made
+	agent	4 sent
+	agent	4 think
+	agent	3 took
+	agent	3 told
+	agent	2 settles
+	agent	2 went
+	agent	2 came
+	agent	2 like
+	agent	2 meant
+	agent	2 worried
+	agent	2 sniffed
+	agent	2 know
+	agent	2 put
+	agent	2 say
+	agent	2 wish
+	agent	2 gave
+	agent	1 tumble
+
+	patient	1 thrash
+	patient	1 carry
+	patient	1 mind
+	patient	1 suit
+	patient	1 hint
+	patient	1 woo
+	patient	1 try
+	patient	1 kiss
+	patient	1 pleased
+	patient	1 wheedled
+	patient	1 gave
+	patient	1 sniffed
+	patient	1 mean
+	patient	1 tell
+	patient	1 ordered
+	patient	1 minding
+	patient	1 satisfy
+	patient	1 scandalized
+	patient	1 lead
+	patient	1 thank
+
+	mod	1 friends
+	mod	1 samphire
+	mod	1 cross
+	mod	1 angry
+	mod	1 right
+	mod	1 sure
+	mod	1 fairer
+
+444 189 Laurie he/him/his
+
+	poss	3 eyes
+	poss	2 duty
+	poss	2 dear
+	poss	2 sight
+	poss	1 arms
+	poss	1 manner
+	poss	1 adventures
+	poss	1 wanderings
+	poss	1 delight
+	poss	1 hand
+	poss	1 heart
+	poss	1 self
+	poss	1 pocket
+	poss	1 respects
+	poss	1 bluntness
+	poss	1 tie
+	poss	1 arm
+	poss	1 error
+	poss	1 regrets
+	poss	1 seat
+
+	agent	10 said
+	agent	4 looked
+	agent	3 meant
+	agent	3 read
+	agent	3 found
+	agent	3 saw
+	agent	3 answered
+	agent	2 had
+	agent	2 mind
+	agent	2 like
+	agent	2 added
+	agent	2 watched
+	agent	2 used
+	agent	2 remember
+	agent	2 liked
+	agent	2 excuse
+	agent	2 went
+	agent	2 asked
+	agent	2 relinquished
+	agent	1 mean
+
+	patient	2 see
+	patient	2 leaving
+	patient	1 pride
+	patient	1 meet
+	patient	1 asked
+	patient	1 watched
+	patient	1 changed
+	patient	1 made
+	patient	1 read
+	patient	1 interest
+	patient	1 welcoming
+	patient	1 hear
+	patient	1 wanted
+	patient	1 show
+	patient	1 do
+	patient	1 order
+	patient	1 helping
+	patient	1 devoted
+	patient	1 accustomed
+	patient	1 kept
+
+	mod	1 morrow
+	mod	1 handsomer
+	mod	1 right
+	mod	1 well
+	mod	1 happy
+	mod	1 glad
+	mod	1 friend
+
+332 149 Fred he/him/his
+
+	poss	2 turn
+	poss	1 best
+	poss	1 pranks
+	poss	1 ball
+	poss	1 toe
+	poss	1 rigmarole
+	poss	1 books
+	poss	1 purpose
+	poss	1 face
+	poss	1 hand
+	poss	1 compliments
+	poss	1 room
+	poss	1 head
+	poss	1 nonsense
+	poss	1 last
+	poss	1 pocket
+	poss	1 family
+	poss	1 meat
+	poss	1 plate
+	poss	1 eyes
+
+	agent	7 said
+	agent	3 had
+	agent	3 looked
+	agent	3 goes
+	agent	2 gave
+	agent	2 returned
+	agent	2 give
+	agent	2 asked
+	agent	2 have
+	agent	2 cultivating
+	agent	2 comes
+	agent	1 did
+	agent	1 escaped
+	agent	1 hit
+	agent	1 cried
+	agent	1 ended
+	agent	1 jumbled
+	agent	1 piled
+	agent	1 drew
+	agent	1 fell
+
+	patient	2 disappointed
+	patient	2 thank
+	patient	1 declared
+	patient	1 owes
+	patient	1 asked
+	patient	1 lacked
+	patient	1 acquainted
+	patient	1 showed
+	patient	1 disgust
+	patient	1 scolded
+	patient	1 accept
+	patient	1 like
+	patient	1 begging
+	patient	1 called
+	patient	1 benefited
+	patient	1 Tell
+	patient	1 miss
+	patient	1 refused
+
+	mod	2 fellow
+	mod	1 close
+	mod	1 friends
+	mod	1 entertaining
+	mod	1 dark
+	mod	1 kind
+	mod	1 hero
+	mod	1 fond
+	mod	1 man
+	mod	1 rich
+	mod	1 gentleman
+
+194 135 Jo he/him/his
+
+	poss	1 post
+	poss	1 eye
+	poss	1 lot
+	poss	1 brow
+	poss	1 nose
+	poss	1 seat
+	poss	1 change
+	poss	1 honor
+	poss	1 care
+	poss	1 hours
+	poss	1 perch
+	poss	1 friend
+	poss	1 pardner
+	poss	1 box
+	poss	1 point
+	poss	1 party
+	poss	1 work
+	poss	1 burdens
+	poss	1 task
+
+	agent	7 cried
+	agent	6 said
+	agent	4 got
+	agent	3 threw
+	agent	3 laid
+	agent	3 put
+	agent	3 began
+	agent	3 do
+	agent	3 felt
+	agent	2 let
+	agent	2 spent
+	agent	2 had
+	agent	2 going
+	agent	2 get
+	agent	2 feel
+	agent	2 have
+	agent	2 learn
+	agent	1 affected
+	agent	1 reads
+	agent	1 suffers
+
+	patient	1 laid
+	patient	1 leave
+	patient	1 address
+	patient	1 dewote
+	patient	1 cried
+	patient	1 ask
+	patient	1 excused
+	patient	1 murmured
+	patient	1 suit
+	patient	1 shook
+	patient	1 gone
+	patient	1 asked
+	patient	1 muttered
+	patient	1 begun
+	patient	1 show
+	patient	1 advise
+
+	mod	2 afraid
+	mod	1 helpful
+	mod	1 sweet
+	mod	1 fool
+	mod	1 happy
+	mod	1 amiable
+
+475 134 Beth she/her
+
+	poss	4 head
+	poss	4 eyes
+	poss	2 mind
+	poss	2 face
+	poss	2 heart
+	poss	2 hand
+	poss	2 boy
+	poss	1 health
+	poss	1 spirits
+	poss	1 father
+	poss	1 eighteen
+	poss	1 Jo
+	poss	1 work
+	poss	1 lap
+	poss	1 hands
+	poss	1 room
+	poss	1 feet
+	poss	1 bedside
+	poss	1 tears
+	poss	1 voice
+
+	agent	3 seemed
+	agent	3 make
+	agent	3 pet
+	agent	2 think
+	agent	2 leaned
+	agent	2 scratching
+	agent	2 said
+	agent	2 tried
+	agent	2 cure
+	agent	2 held
+	agent	2 leave
+	agent	2 going
+	agent	2 amused
+	agent	1 sits
+	agent	1 talk
+	agent	1 used
+	agent	1 crying
+	agent	1 sings
+	agent	1 evaded
+	agent	1 looked
+
+	patient	2 asked
+	patient	1 treat
+	patient	1 leave
+	patient	1 watched
+	patient	1 betray
+	patient	1 Tell
+	patient	1 seemed
+	patient	1 promised
+	patient	1 amused
+
+	mod	2 quiet
+	mod	1 ill
+	mod	1 woman
+	mod	1 feeble
+	mod	1 alone
+	mod	1 engaged
+	mod	1 better
+	mod	1 lady
+
+181 90 Laurie she/her
+
+	poss	3 mother
+	poss	1 voice
+	poss	1 wife
+	poss	1 remarks
+
+	agent	4 said
+	agent	3 sitting
+	agent	3 think
+	agent	2 makes
+	agent	2 knew
+	agent	2 put
+	agent	2 have
+	agent	2 want
+	agent	1 spoke
+	agent	1 knocked
+	agent	1 did
+	agent	1 cared
+	agent	1 came
+	agent	1 tell
+	agent	1 bear
+	agent	1 tried
+	agent	1 flattered
+	agent	1 do
+	agent	1 fail
+	agent	1 began
+
+	patient	1 added
+	patient	1 gave
+	patient	1 loved
+	patient	1 flattered
+	patient	1 shut
+	patient	1 love
+	patient	1 see
+	patient	1 escorted
+	patient	1 disappointed
+	patient	1 suit
+	patient	1 assure
+
+	mod	2 good
+	mod	1 ashamed
+	mod	1 idiot
+	mod	1 brute
+	mod	1 dread
+
+197 88 Miss Kate she/her
+
+	poss	4 glass
+	poss	2 face
+	poss	2 ball
+	poss	2 voice
+	poss	1 oar
+	poss	1 fate
+	poss	1 tyrant
+	poss	1 sketch
+	poss	1 tone
+	poss	1 work
+	poss	1 father
+	poss	1 pronunciation
+	poss	1 lap
+	poss	1 tutor
+	poss	1 listener
+	poss	1 mistakes
+	poss	1 book
+
+	agent	6 said
+	agent	4 looked
+	agent	3 put
+	agent	3 read
+	agent	2 thought
+	agent	2 have
+	agent	1 see
+	agent	1 exclaimed
+	agent	1 lost
+	agent	1 decided
+	agent	1 smiled
+	agent	1 sketched
+	agent	1 talked
+	agent	1 knows
+	agent	1 keeps
+	agent	1 stares
+	agent	1 going
+	agent	1 know
+	agent	1 eat
+	agent	1 rescue
+
+	patient	1 dressed
+	patient	1 see
+	patient	1 tell
+	patient	1 save
+	patient	1 watched
+	patient	1 taught
+
+	mod	1 flattered
+	mod	1 frank
+	mod	1 afraid
+
+259 88 Laurie he/him/his
+
+	poss	2 congratulations
+	poss	1 hands
+	poss	1 pockets
+	poss	1 brows
+	poss	1 tone
+	poss	1 honor
+	poss	1 pet
+	poss	1 friend
+	poss	1 cap
+	poss	1 neighbors
+	poss	1 answer
+	poss	1 boots
+	poss	1 management
+	poss	1 way
+	poss	1 mind
+	poss	1 offering
+	poss	1 life
+	poss	1 word
+	poss	1 Cruise
+
+	agent	5 said
+	agent	3 do
+	agent	2 told
+	agent	2 walked
+	agent	2 sat
+	agent	2 got
+	agent	2 come
+	agent	2 take
+	agent	2 dare
+	agent	1 put
+	agent	1 knit
+	agent	1 have
+	agent	1 wish
+	agent	1 advise
+	agent	1 felt
+	agent	1 liked
+	agent	1 telegraph
+	agent	1 asked
+	agent	1 study
+	agent	1 follow
+
+	patient	2 asked
+	patient	1 take
+	patient	1 bring
+	patient	1 tell
+	patient	1 set
+	patient	1 swung
+	patient	1 got
+	patient	1 console
+
+	mod	1 sure
+	mod	1 boy
+	mod	1 fellow
+	mod	1 good
+	mod	1 comfort
+
+234 78 Mr. March he/him/his
+
+	poss	2 wife
+	poss	2 girl
+	poss	2 legs
+	poss	1 property
+	poss	1 Pewmonia
+	poss	1 doctor
+	poss	1 pilgrims
+	poss	1 arrival
+	poss	1 books
+	poss	1 parish
+	poss	1 beliefs
+	poss	1 stores
+	poss	1 guest
+	poss	1 Aristotle
+	poss	1 mind
+
+	agent	3 said
+	agent	3 know
+	agent	2 think
+	agent	2 see
+	agent	2 feel
+	agent	2 get
+	agent	1 lost
+	agent	1 had
+	agent	1 mending
+	agent	1 began
+	agent	1 wrote
+	agent	1 became
+	agent	1 needed
+	agent	1 told
+	agent	1 allowed
+	agent	1 longed
+	agent	1 paused
+	agent	1 looked
+	agent	1 have
+	agent	1 left
+
+	patient	2 sent
+	patient	1 seen
+	patient	1 allowed
+	patient	1 round
+	patient	1 delights
+	patient	1 shut
+	patient	1 compromised
+	patient	1 have
+
+	mod	1 man
+
+208 64 Marmee she/her
+
+	poss	3 corner
+	poss	1 pin
+	poss	1 tastes
+	poss	1 fist
+	poss	1 hand
+	poss	1 feelings
+	poss	1 boots
+	poss	1 cloak
+
+	agent	3 said
+	agent	1 have
+	agent	1 think
+	agent	1 lend
+	agent	1 ask
+	agent	1 does
+	agent	1 shook
+	agent	1 took
+	agent	1 coming
+	agent	1 tramping
+	agent	1 needs
+	agent	1 go
+	agent	1 leave
+	agent	1 going
+	agent	1 want
+	agent	1 got
+	agent	1 happen
+
+	patient	1 get
+	patient	1 surprise
+	patient	1 told
+
+	mod	1 willing
+	mod	1 anxious
+
+274 63 Belle she/her
+
+	poss	2 arms
+	poss	2 head
+	poss	2 heart
+	poss	1 writing
+	poss	1 tone
+	poss	1 feelings
+	poss	1 maid
+	poss	1 hair
+	poss	1 neck
+	poss	1 lips
+	poss	1 shoulders
+	poss	1 skirts
+	poss	1 tinkling
+	poss	1 curls
+	poss	1 fun
+	poss	1 friends
+	poss	1 plumes
+	poss	1 skirt
+	poss	1 hands
+	poss	1 success
+
+	agent	3 said
+	agent	2 looked
+	agent	1 praised
+	agent	1 saw
+	agent	1 sent
+	agent	1 asked
+	agent	1 exclaimed
+	agent	1 returned
+	agent	1 shook
+	agent	1 broke
+	agent	1 got
+	agent	1 wear
+	agent	1 outgrown
+	agent	1 please
+	agent	1 admire
+	agent	1 let
+	agent	1 burst
+	agent	1 accept
+	agent	1 shut
+	agent	1 turned
+
+	patient	2 please
+	patient	1 shut
+	patient	1 laced
+	patient	1 finished
+	patient	1 surveyed
+	patient	1 told
+	patient	1 drill
+	patient	1 trip
+
+	mod	2 beauty
+
+205 62 Ned he/him/his
+
+	poss	1 name
+	poss	1 friend
+	poss	1 assurances
+	poss	1 skill
+	poss	1 song
+	poss	1 reproach
+	poss	1 set
+	poss	1 own
+	poss	1 love
+
+	agent	2 put
+	agent	2 came
+	agent	2 said
+	agent	2 tried
+	agent	1 comes
+	agent	1 want
+	agent	1 suppose
+	agent	1 coming
+	agent	1 turned
+	agent	1 did
+	agent	1 proposed
+	agent	1 joined
+	agent	1 sat
+	agent	1 led
+	agent	1 warbled
+	agent	1 looked
+	agent	1 whispered
+	agent	1 married
+	agent	1 help
+	agent	1 take
+
+	patient	2 love
+	patient	1 snub
+	patient	1 shunned
+	patient	1 offended
+	patient	1 like
+	patient	1 whisked
+	patient	1 say
+
+	mod	1 wild
+	mod	1 wise
+	mod	1 person
+
+273 57 Mrs. Moffat she/her
+
+	poss	1 daughter
+	poss	1 ferns
+	poss	1 hair
+	poss	1 girls
+	poss	1 Ned
+	poss	1 fibs
+	poss	1 feet
+	poss	1 rings
+	poss	1 fan
+	poss	1 blush
+	poss	1 dress
+	poss	1 confusion
+	poss	1 husband
+	poss	1 success
+	poss	1 ladyship
+
+	agent	3 saw
+	agent	2 said
+	agent	2 had
+	agent	1 laid
+	agent	1 fastened
+	agent	1 dare
+	agent	1 play
+	agent	1 believe
+	agent	1 attributed
+	agent	1 going
+	agent	1 do
+	agent	1 sent
+	agent	1 reply
+	agent	1 assure
+	agent	1 imagined
+	agent	1 got
+	agent	1 flirting
+	agent	1 laughing
+	agent	1 stopped
+	agent	1 looked
+
+	patient	1 strike
+	patient	1 asked
+	patient	1 imagined
+	patient	1 eclipsed
+
+	mod	1 happy
+
+492 54 Professor Bhaer he/him/his
+
+	poss	1 books
+	poss	1 head
+	poss	1 clothes
+	poss	1 hands
+	poss	1 face
+	poss	1 teeth
+	poss	1 linen
+	poss	1 coat
+	poss	1 humming
+	poss	1 reproof
+	poss	1 beard
+	poss	1 turn
+	poss	1 boy
+
+	agent	2 had
+	agent	2 looked
+	agent	2 said
+	agent	1 doing
+	agent	1 arranged
+	agent	1 liked
+	agent	1 was
+	agent	1 went
+	agent	1 stroke
+	agent	1 smiled
+	agent	1 came
+	agent	1 did
+	agent	1 stood
+	agent	1 watching
+	agent	1 knew
+	agent	1 guess
+	agent	1 spent
+	agent	1 met
+	agent	1 helped
+	agent	1 forget
+
+	patient	2 haf
+	patient	1 liked
+	patient	1 received
+	patient	1 meet
+	patient	1 assured
+	patient	1 proving
+	patient	1 told
+	patient	1 forgive
+
+	mod	1 satisfied
+	mod	1 proud
+
+381 53 Esther she/her
+
+	poss	1 name
+	poss	1 religion
+	poss	1 life
+	poss	1 glass
+	poss	1 prayers
+	poss	1 sister
+	poss	1 advice
+	poss	1 leave
+	poss	1 room
+	poss	1 good
+	poss	1 sisters
+	poss	1 behavior
+	poss	1 manners
+
+	agent	2 use
+	agent	2 said
+	agent	2 whispered
+	agent	1 obeyed
+	agent	1 took
+	agent	1 amused
+	agent	1 got
+	agent	1 covet
+	agent	1 seem
+	agent	1 went
+	agent	1 like
+	agent	1 had
+	agent	1 felt
+	agent	1 wish
+	agent	1 knew
+	agent	1 replaced
+	agent	1 shut
+	agent	1 know
+	agent	1 witnessed
+	agent	1 go
+
+	patient	2 asked
+	patient	1 ordered
+	patient	1 go
+
+	mod	1 pious
+
+207 51 Mother she/her
+
+	poss	1 love
+	poss	1 room
+	poss	1 bandboxes
+	poss	1 mistress
+
+	agent	5 says
+	agent	3 wish
+	agent	2 do
+	agent	2 have
+	agent	2 going
+	agent	2 let
+	agent	2 shut
+	agent	1 say
+	agent	1 sent
+	agent	1 sing
+	agent	1 act
+	agent	1 likes
+	agent	1 bear
+	agent	1 get
+	agent	1 accept
+	agent	1 has
+	agent	1 dozed
+	agent	1 called
+	agent	1 tyrannized
+	agent	1 told
+
+
+	mod	1 splendid
+	mod	1 sick
+	mod	1 tired
+	mod	1 willing
+
+249 47 Mr. Davis he/him/his
+
+	poss	2 manner
+	poss	1 mouth
+	poss	1 eye
+	poss	1 coffee
+	poss	1 neuralgia
+	poss	1 pupils
+	poss	1 face
+	poss	1 desk
+	poss	1 countenance
+	poss	1 nose
+	poss	1 wrath
+	poss	1 word
+	poss	1 school
+
+	agent	2 felt
+	agent	2 said
+	agent	1 ordered
+	agent	1 did
+	agent	1 says
+	agent	1 declared
+	agent	1 vowed
+	agent	1 knew
+	agent	1 taken
+	agent	1 deserved
+	agent	1 rapped
+	agent	1 detested
+	agent	1 added
+	agent	1 gave
+	agent	1 broken
+	agent	1 knocked
+	agent	1 resolved
+	agent	1 begun
+	agent	1 forget
+	agent	1 snatched
+
+	patient	2 called
+	patient	1 informed
+	patient	1 gave
+	patient	1 arrested
+	patient	1 had
+
+	mod	2 nervous
+	mod	1 sure
+	mod	1 benignant
+
+164 43 May he/him/his
+
+	poss	2 table
+	poss	1 style
+	poss	1 perch
+	poss	1 dear
+	poss	1 vases,—that
+	poss	1 face
+	poss	1 answer
+	poss	1 words
+	poss	1 manner
+	poss	1 delight
+
+	agent	2 asked
+	agent	2 want
+	agent	2 took
+	agent	1 goes
+	agent	1 added
+	agent	1 wish
+	agent	1 said
+	agent	1 have
+	agent	1 made
+	agent	1 returned
+	agent	1 did
+	agent	1 married
+
+	patient	2 began
+	patient	1 See
+
+	mod	1 ready
+	mod	1 jealous
+
+269 42 Scott he/him/his
+
+	poss	1 face
+	poss	1 wife
+	poss	1 friend
+	poss	1 hour
+	poss	1 heart
+	poss	1 duty
+	poss	1 dignity
+	poss	1 dear
+	poss	1 paper
+	poss	1 head
+
+	agent	2 strolled
+	agent	1 smiled
+	agent	1 heard
+	agent	1 carried
+	agent	1 excused
+	agent	1 show
+	agent	1 felt
+	agent	1 fumed
+	agent	1 hoped
+	agent	1 hated
+	agent	1 made
+	agent	1 told
+
+	patient	1 taken
+	patient	1 got
+	patient	1 deserted
+	patient	1 seeing
+	patient	1 please
+	patient	1 ruffled
+	patient	1 sent
+	patient	1 meet
+	patient	1 laid
+	patient	1 wrapped
+	patient	1 had
+	patient	1 served
+
+	mod	1 patient
+	mod	1 fellow
+
+410 42 Meg she/her
+
+	poss	2 wedding
+	poss	2 sisters
+	poss	1 best
+	poss	1 face
+	poss	1 self
+	poss	1 hair
+	poss	1 John
+	poss	1 dress
+	poss	1 arms
+	poss	1 mother
+
+	agent	3 said
+	agent	2 going
+	agent	2 want
+	agent	2 wish
+	agent	2 ran
+	agent	2 went
+	agent	1 swing
+	agent	1 rouse
+	agent	1 defended
+	agent	1 wonder
+	agent	1 doing
+	agent	1 get
+	agent	1 looked
+	agent	1 have
+	agent	1 love
+	agent	1 made
+	agent	1 sewing
+	agent	1 wore
+	agent	1 look
+	agent	1 opened
+
+	patient	1 hug
+	patient	1 surveying
+
+	mod	1 afraid
+
+225 38 Sallie she/her
+
+	poss	1 ease
+	poss	1 friend
+	poss	1 one
+	poss	1 hair
+	poss	1 sash
+	poss	1 silk
+	poss	1 speech
+	poss	1 piqué
+	poss	1 splendor
+
+	agent	3 got
+	agent	1 has
+	agent	1 does
+	agent	1 going
+	agent	1 promised
+	agent	1 seemed
+	agent	1 offered
+	agent	1 tie
+	agent	1 says
+	agent	1 dotes
+	agent	1 want
+	agent	1 said
+	agent	1 see
+	agent	1 exclaimed
+	agent	1 finish
+	agent	1 assure
+	agent	1 returned
+	agent	1 say
+	agent	1 began
+	agent	1 nodded
+
+	patient	1 knew
+	patient	1 replied
+	patient	1 asked
+	patient	1 entertaining
+	patient	1 absorbed
+	patient	1 took
+	patient	1 married
+
+
+583 38 Amy she/her
+
+	poss	2 husband
+	poss	1 duty
+	poss	1 boy
+	poss	1 words
+	poss	1 heart
+	poss	1 eyes
+	poss	1 heels
+	poss	1 darling
+	poss	1 fear
+
+	agent	3 wish
+	agent	2 looked
+	agent	2 thought
+	agent	2 gave
+	agent	2 confess
+	agent	1 caught
+	agent	1 hear
+	agent	1 marrying
+	agent	1 forgot
+	agent	1 said
+	agent	1 married
+	agent	1 show
+	agent	1 love
+	agent	1 tried
+	agent	1 pull
+	agent	1 caressed
+	agent	1 assure
+	agent	1 dance
+	agent	1 thanked
+
+	patient	1 caught
+	patient	1 escaped
+
+	mod	1 creature
+	mod	1 prouder
+
+513 37 Mr. Dashwood he/him/his
+
+	poss	1 eye
+	poss	1 manners
+	poss	1 sinners
+	poss	1 gravity
+	poss	1 reply
+	poss	1 contributor
+	poss	1 feet
+	poss	1 directions
+	poss	1 columns
+	poss	1 hospitality
+	poss	1 hacks
+	poss	1 word
+
+	agent	1 taken
+	agent	1 turning
+	agent	1 take
+	agent	1 covered
+	agent	1 gave
+	agent	1 run
+	agent	1 give
+	agent	1 suit
+	agent	1 marked
+	agent	1 said
+	agent	1 thought
+	agent	1 took
+	agent	1 think
+	agent	1 returned
+	agent	1 send
+	agent	1 put
+	agent	1 do
+	agent	1 permitted
+	agent	1 rejected
+	agent	1 had
+
+	patient	1 see
+	patient	1 escaped
+	patient	1 asked
+	patient	1 left
+
+	mod	1 awake
+
+611 36 Jo she/her
+
+	poss	2 heart
+	poss	2 Boys
+	poss	1 father
+	poss	1 mother
+	poss	1 husband
+	poss	1 children
+	poss	1 life
+	poss	1 harvest
+	poss	1 Turned
+
+	agent	2 wait
+	agent	1 answered
+	agent	1 remember
+	agent	1 seems
+	agent	1 wanted
+	agent	1 given
+	agent	1 write
+	agent	1 pointed
+	agent	1 say
+	agent	1 deserve
+	agent	1 added
+	agent	1 growing
+	agent	1 have
+	agent	1 help
+	agent	1 done
+	agent	1 cried
+
+	patient	1 thank
+
+	mod	1 sure
+	mod	1 happier
+
+168 35 Frank he/him/his
+
+	poss	1 crutch
+	poss	1 amusements
+	poss	1 strength
+
+	agent	2 like
+	agent	2 said
+	agent	2 hunt
+	agent	1 designed
+	agent	1 sat
+	agent	1 talked
+	agent	1 tell
+	agent	1 playing
+	agent	1 do
+	agent	1 heard
+	agent	1 pushed
+	agent	1 watched
+	agent	1 answered
+	agent	1 asked
+	agent	1 did
+	agent	1 laugh
+
+	patient	1 hurt
+
+	mod	1 general
+	mod	1 tired
+
+345 33 Polly she/her
+
+	poss	1 lament
+	poss	1 perch
+	poss	1 tongue
+	poss	1 girl
+	poss	1 buttons
+	poss	1 mother
+
+	agent	1 laughed
+	agent	1 sidling
+	agent	1 bridling
+	agent	1 gone
+	agent	1 persuaded
+	agent	1 wrote
+	agent	1 returned
+
+	patient	2 catch
+	patient	1 caused
+	patient	1 fed
+	patient	1 took
+	patient	1 consult
+	patient	1 driven
+	patient	1 Catch
+	patient	1 begged
+
+	mod	1 time
+
+210 31 Hugo he/him/his
+
+	poss	2 resolution
+	poss	1 side
+	poss	1 forehead
+	poss	1 hatred
+	poss	1 love
+	poss	1 voice
+	poss	1 feelings
+	poss	1 thanks
+	poss	1 boots
+	poss	1 plans
+	poss	1 wits
+
+	agent	1 come
+	agent	1 died
+	agent	1 stalked
+	agent	1 struck
+	agent	1 burst
+	agent	1 paused
+	agent	1 stole
+	agent	1 ordered
+	agent	1 need
+	agent	1 demanded
+	agent	1 promised
+	agent	1 departed
+	agent	1 informed
+	agent	1 killed
+	agent	1 drinks
+	agent	1 loses
+
+	patient	1 overcame
+	patient	1 adore
+	patient	1 cursed
+	patient	1 finish
+	patient	1 takes
+	patient	1 informs
+	patient	1 called
+
+
+613 31 Meg she/her
+
+	poss	2 Library
+	poss	1 Writings
+	poss	1 Life
+	poss	1 Letters
+	poss	1 stories
+	poss	1 GIFTS
+	poss	1 life
+	poss	1 eyes
+	poss	1 aunty
+	poss	1 work
+
+	agent	1 Illustrated
+	agent	1 Written
+	agent	1 comes
+	agent	1 learned
+	agent	1 following
+	agent	1 found
+
+	patient	1 Forget
+	patient	1 changes
+
+
+176 30 God he/him/his
+
+	poss	1 sake
+	poss	1 sight
+
+	agent	2 spares
+	agent	1 sees
+	agent	1 seems
+	agent	1 take
+	agent	1 bless
+	agent	1 lets
+	agent	1 let
+	agent	1 winds
+	agent	1 go
+	agent	1 stops
+	agent	1 wills
+
+	patient	3 thank
+	patient	2 Thank
+	patient	1 follow
+	patient	1 serve
+	patient	1 thanked
+
+	mod	1 guide
+	mod	1 force
+	mod	1 cruel
+
+211 30 Roderigo he/him/his
+
+	poss	2 chains
+	poss	1 shoulder
+	poss	1 heart
+	poss	1 window
+	poss	1 love
+
+	agent	1 rent
+	agent	1 died
+	agent	1 came
+	agent	1 sang
+	agent	1 produced
+	agent	1 threw
+	agent	1 defied
+	agent	1 refused
+	agent	1 save
+	agent	1 tears
+	agent	1 rushes
+	agent	1 dashes
+	agent	1 demands
+	agent	1 flew
+	agent	1 taken
+
+	patient	1 destroy
+	patient	1 banished
+	patient	1 displayed
+	patient	1 stabbing
+	patient	1 told
+	patient	1 deserted
+	patient	1 informing
+
+	mod	1 about
+
+408 30 Sallie she/her
+
+	poss	1 establishment
+	poss	1 train
+	poss	1 arm
+	poss	1 friendship
+	poss	1 friend
+	poss	1 things
+	poss	1 silk
+	poss	1 party
+
+	agent	2 buying
+	agent	1 has
+	agent	1 says
+	agent	1 does
+	agent	1 threw
+	agent	1 whisked
+	agent	1 renewed
+	agent	1 got
+	agent	1 think
+	agent	1 longed
+	agent	1 urged
+	agent	1 exulted
+	agent	1 advised
+	agent	1 did
+	agent	1 pay
+	agent	1 wants
+
+	patient	1 amuse
+	patient	1 pity
+	patient	1 asked
+
+	mod	1 wife
+	mod	1 kind
+
+428 29 Tudor he/him/his
+
+	poss	1 breeding
+	poss	1 mind
+	poss	1 uncle
+	poss	1 sisters
+	poss	1 father
+	poss	1 mother
+	poss	1 grandfather
+
+	agent	1 beg
+	agent	1 said
+	agent	1 wish
+	agent	1 laugh
+	agent	1 joke
+	agent	1 bowed
+	agent	1 departed
+	agent	1 puts
+	agent	1 snubs
+
+	patient	1 entertain
+	patient	1 avoid
+	patient	1 like
+	patient	1 treat
+	patient	1 admire
+	patient	1 tell
+	patient	1 influence
+
+	mod	1 fast
+
+195 28 Pip he/him/his
+
+	poss	1 claws
+	poss	1 eye
+	poss	1 heart
+	poss	1 mistress
+	poss	1 epitaph
+
+	agent	1 died
+	agent	1 get
+	agent	1 had
+	agent	1 lies
+
+	patient	1 forgot
+	patient	1 restore
+	patient	1 Put
+	patient	1 starved
+	patient	1 baked
+	patient	1 buried
+	patient	1 lay
+	patient	1 laid
+
+	mod	1 dead
+
+476 27 Laurie she/her
+
+	poss	1 manner
+	poss	1 word
+
+	agent	1 flirted
+	agent	1 joked
+	agent	1 went
+	agent	1 ceased
+	agent	1 sat
+	agent	1 knew
+	agent	1 cause
+	agent	1 exclaimed
+	agent	1 give
+	agent	1 do
+	agent	1 answer
+	agent	1 say
+	agent	1 see
+	agent	1 suppose
+	agent	1 know
+	agent	1 fancy
+
+	patient	1 forgotten
+	patient	1 loves
+	patient	1 watched
+
+	mod	1 busy
+	mod	1 glad
+	mod	1 ashamed
+	mod	1 sure
+
+218 25 Zara she/her
+
+	poss	2 hand
+	poss	1 lattice
+	poss	1 train,—it
+	poss	1 sire
+
+	agent	1 adore
+	agent	1 replied
+	agent	1 consented
+	agent	1 crept
+	agent	1 forgot
+	agent	1 defied
+	agent	1 ordered
+	agent	1 deserted
+	agent	1 go
+	agent	1 hear
+	agent	1 bequeaths
+
+	patient	2 told
+	patient	1 invited
+	patient	1 fired
+	patient	1 save
+	patient	1 bear
+
+	mod	1 true
+
+335 25 Sallie she/her
+
+	poss	1 invention
+	poss	1 friend
+	poss	1 comings
+
+	agent	1 went
+	agent	1 say
+	agent	1 cried
+	agent	1 give
+	agent	1 know
+	agent	1 piled
+	agent	1 drew
+	agent	1 fell
+	agent	1 said
+	agent	1 did
+	agent	1 exclaimed
+	agent	1 returned
+	agent	1 telling
+
+	patient	3 asked
+	patient	1 scuttled
+
+	mod	1 ashamed
+
+490 23 Mrs. Kirke she/her
+
+	poss	1 children
+	poss	1 family
+	poss	1 parlor
+
+	agent	2 gave
+	agent	1 wrote
+	agent	1 accepted
+	agent	1 promised
+	agent	1 welcomed
+	agent	1 sit
+	agent	1 had
+	agent	1 pitied
+	agent	1 gone
+	agent	1 took
+	agent	1 asked
+	agent	1 thought
+	agent	1 plucked
+	agent	1 told
+	agent	1 does
+	agent	1 called
+	agent	1 rummaging
+	agent	1 remembered
+	agent	1 lent
+
+	patient	1 leave
+
+	mod	1 soul
+	mod	1 short
+
+216 22 Tina she/her
+
+	poss	1 heart
+	poss	1 mother
+
+	agent	1 came
+	agent	1 rested
+	agent	1 runs
+	agent	1 hear
+	agent	1 put
+	agent	1 took
+
+	patient	1 welcome
+	patient	1 taking
+	patient	1 carried
+	patient	1 added
+	patient	1 shouldered
+
+	mod	1 child
+	mod	1 poor
+	mod	1 sick
+
+291 22 Snodgrass he/him/his
+
+	poss	1 chair
+	poss	1 seat
+	poss	1 word
+
+	agent	1 arranged
+	agent	1 rose
+	agent	1 began
+	agent	1 wish
+	agent	1 propose
+	agent	1 took
+	agent	1 give
+	agent	1 think
+	agent	1 led
+	agent	1 proposed
+
+	patient	1 arranged
+	patient	1 cried
+	patient	1 Bless
+
+
+298 20 Father she/her
+
+	poss	1 things
+	poss	1 arm
+
+	agent	1 dashed
+	agent	1 read
+	agent	1 tore
+	agent	1 come
+	agent	1 put
+	agent	1 go
+	agent	1 find
+	agent	1 tweaked
+	agent	1 says
+	agent	1 sat
+
+	patient	1 met
+
+	mod	1 regular
+	mod	1 proud
+	mod	1 bewildered
+	mod	1 better
+
+241 19 Flo she/her
+
+	poss	2 mamma
+	poss	1 dress
+
+	agent	1 darting
+	agent	1 cried
+	agent	1 settles
+	agent	1 ordered
+	agent	1 saving
+
+	patient	1 added
+
+	mod	1 way
+	mod	1 frightened
+	mod	1 kind
+
+448 18 Mrs. Chester she/her
+
+	poss	1 novel
+	poss	1 fair
+	poss	1 daughter
+	poss	1 girls
+
+	agent	2 found
+	agent	1 alluded
+	agent	1 asked
+	agent	1 offered
+	agent	1 said
+	agent	1 find
+	agent	1 giving
+	agent	1 know
+	agent	1 have
+	agent	1 fancied
+	agent	1 had
+
+	patient	1 have
+
+	mod	1 sorry
+
+466 18 Kitty she/her
+
+	poss	1 acquaintances
+	poss	1 eye
+
+	agent	2 said
+	agent	1 lives
+	agent	1 agree
+	agent	1 hoped
+	agent	1 regard
+	agent	1 tell
+	agent	1 got
+	agent	1 looked
+	agent	1 leading
+	agent	1 feeding
+	agent	1 kept
+
+	patient	1 explained
+
+
+163 17 Little Women they/them/their
+
+	poss	1 Book
+
+	agent	2 drew
+	agent	1 Illustrated
+
+	patient	1 EBOOK
+
+
+188 16 Don Pedro he/him/his
+
+	poss	3 blessing
+	poss	1 daughter
+
+	agent	2 told
+	agent	1 defied
+	agent	1 dragged
+	agent	1 wishes
+	agent	1 hear
+	agent	1 refuses
+	agent	1 make
+	agent	1 consents
+	agent	1 join
+	agent	1 flew
+	agent	1 taken
+
+
+	mod	1 rich
+
+294 16 Prim little Winkle he/him/his
+
+	poss	2 head
+	poss	1 face
+	poss	1 club
+	poss	1 piece
+	poss	1 badness
+	poss	1 fall
+	poss	1 shoulders
+	poss	1 form
+	poss	1 garments
+
+	agent	1 hates
+	agent	1 send
+	agent	1 write
+	agent	1 has
+	agent	1 suffered
+
+
+	mod	1 model
+
+363 16 Mamma she/her
+
+	poss	1 diary
+	poss	1 book
+	poss	1 tour
+	poss	1 pats
+
+	agent	2 try
+	agent	1 keep
+	agent	1 see
+	agent	1 admire
+	agent	1 allows
+	agent	1 thought
+	agent	1 respected
+
+
+	mod	1 able
+	mod	1 slave
+
+495 16 Fritz he/him/his
+
+	poss	1 heart
+	poss	1 boys
+	poss	1 pocket
+	poss	1 way
+
+	agent	2 teach
+	agent	1 said
+	agent	1 agreed
+	agent	1 like
+	agent	1 train
+	agent	1 help
+	agent	1 getting
+
+	patient	1 doing
+	patient	1 help
+
+
+499 16 Miss Norton she/her
+
+	poss	1 treasures
+
+	agent	1 laughed
+	agent	1 know
+	agent	1 showed
+	agent	1 asked
+	agent	1 put
+	agent	1 does
+	agent	1 lent
+	agent	1 had
+
+	patient	1 told
+
+
+196 15 Miss Crocker she/her
+
+	poss	1 lips
+	poss	1 account
+	poss	1 share
+	poss	1 stocking
+
+	agent	4 made
+	agent	2 pursed
+	agent	1 capped
+	agent	1 settle
+	agent	1 appeared
+	agent	1 said
+	agent	1 come
+	agent	1 mark
+	agent	1 report
+	agent	1 talked
+	agent	1 tasted
+	agent	1 set
+
+	patient	1 met
+	patient	1 escort
+
+
+212 15 Hagar she/her
+
+	poss	1 kettleful
+	poss	1 friends
+
+	agent	1 chanted
+	agent	1 informed
+	agent	1 intends
+	agent	1 cursed
+	agent	1 appeared
+	agent	1 hears
+	agent	1 sees
+	agent	1 changes
+	agent	1 puts
+	agent	1 informs
+	agent	1 done
+
+	patient	1 ordered
+	patient	1 demanded
+
+
+599 15 Poor Laurie he/him/his
+
+	poss	1 way
+	poss	1 best
+	poss	1 grandfather
+
+	agent	1 know
+	agent	1 say
+	agent	1 began
+	agent	1 thank
+	agent	1 had
+	agent	1 got
+	agent	1 laid
+
+	patient	1 cast
+
+
+459 14 Aunt Carrol she/her
+
+
+	agent	1 like
+	agent	1 feel
+	agent	1 do
+	agent	1 reply
+	agent	1 going
+	agent	1 wants
+
+	patient	1 found
+	patient	1 coughed
+	patient	1 beg
+
+
+281 13 Mademoiselle she/her
+
+	poss	1 will
+
+	agent	2 had
+	agent	1 choose
+	agent	1 find
+	agent	1 found
+
+	patient	1 amused
+
+	mod	1 charmante
+
+402 13 This Rook he/him/his
+
+	poss	1 liking
+
+	agent	5 has
+	agent	1 cares
+	agent	1 knows
+
+	patient	1 help
+	patient	1 got
+	patient	1 respects
+
+	mod	1 poor
+	mod	1 willing
+	mod	1 energetic
+	mod	1 brave
+
+620 13 Jo she/her
+
+	poss	1 Illustrated
+	poss	1 boys
+	poss	1 Bag
+	poss	1 Library
+	poss	1 Garland
+
+	agent	1 Written
+	agent	1 gone
+
+
+
+191 12 Poll he/him/his
+
+	poss	3 wig
+	poss	1 finger
+	poss	1 dismay
+	poss	1 face
+
+	agent	2 tweaked
+	agent	1 said
+	agent	1 swear
+
+	patient	1 opened
+	patient	1 does
+
+
+226 12 Grandpa he/him/his
+
+	poss	1 head
+	poss	1 heart
+
+	agent	1 sent
+	agent	1 does
+	agent	1 take
+	agent	1 set
+	agent	1 get
+	agent	1 wanted
+	agent	1 went
+	agent	1 leave
+	agent	1 got
+	agent	1 go
+
+	patient	1 interest
+
+
+382 12 Madame she/her
+
+	poss	1 laces
+	poss	1 will
+
+	agent	1 sleeps
+	agent	1 pray
+	agent	1 confides
+	agent	1 let
+	agent	1 said
+	agent	1 have
+	agent	1 approves
+	agent	1 know
+	agent	1 care
+
+
+
+441 12 Jack he/him/his
+
+
+	agent	1 married
+	agent	1 gone
+	agent	1 fell
+
+	patient	2 Take
+	patient	2 see
+	patient	1 brought
+	patient	1 met
+	patient	1 tell
+
+
+543 12 Meg she/her
+
+	poss	1 babies
+	poss	1 customs
+	poss	1 children
+	poss	1 time
+
+	agent	2 found
+	agent	1 experience
+	agent	1 prevailed
+	agent	1 brooded
+	agent	1 looked
+	agent	1 absorbed
+
+	patient	1 found
+	patient	1 absorbed
+
+	mod	1 woman
+
+248 11 Susie she/her
+
+	poss	1 slate
+	poss	1 downfall
+
+	agent	1 came
+	agent	1 drew
+	agent	1 went
+	agent	1 think
+	agent	1 cried
+	agent	1 did
+
+	patient	1 ordered
+	patient	1 parrylized
+	patient	1 envy
+
+
+258 11 VI she/her
+
+	poss	1 dress
+	poss	1 father
+	poss	1 hand
+	poss	1 steps
+
+	agent	1 weds
+	agent	1 hates
+	agent	1 loves
+	agent	1 spurned
+
+	patient	1 finds
+	patient	1 seen
+
+	mod	1 lovely
+
+378 11 Dr. Bangs he/him/his
+
+	poss	1 best
+	poss	1 own
+
+	agent	3 came
+	agent	2 looked
+
+	patient	1 have
+	patient	1 get
+
+
+509 11 Friedrich he/him/his
+
+	poss	1 line
+	poss	1 hand
+
+	agent	1 gifs
+	agent	1 try
+
+	patient	1 kissed
+
+
+372 10 Mrs. Hummel she/her
+
+
+	agent	2 came
+	agent	1 goes
+	agent	1 takes
+	agent	1 got
+	agent	1 told
+	agent	1 ask
+
+	patient	1 cure
+
+	mod	1 poor
+
+401 10 Poor Mr. Brooke he/him/his
+
+	poss	1 castle
+	poss	1 ears
+
+	agent	1 looked
+	agent	1 bewildered
+	agent	1 seen
+	agent	1 asked
+	agent	1 do
+	agent	1 want
+	agent	1 need
+	agent	1 'd
+
+	patient	1 bewildered
+
+
+491 10 Mrs. K. she/her
+
+	poss	1 way
+	poss	1 parlor
+
+	agent	2 said
+	agent	1 laughed
+	agent	1 told
+	agent	1 says
+	agent	1 takes
+	agent	1 put
+
+	patient	1 laughed
+
+
+315 9 Sam Weller he/him/his
+
+	poss	1 orations
+	poss	1 hearers
+	poss	1 contributions
+	poss	1 appearance
+
+	agent	1 add
+	agent	1 makes
+
+	patient	1 like
+
+
+412 9 little Parker he/him/his
+
+	poss	1 passion
+
+	agent	3 had
+	agent	1 getting
+	agent	1 talks
+	agent	1 writes
+	agent	1 nip
+	agent	1 said
+	agent	1 walked
+
+	patient	1 walked
+
+
+433 9 Prof. Sands she/her
+
+	poss	1 story
+	poss	1 plan
+	poss	1 mother
+
+	agent	1 prosing
+	agent	1 taking
+	agent	1 resolving
+	agent	1 built
+	agent	1 said
+	agent	1 fell
+
+
+	mod	1 glad
+
+462 9 Hayes he/him/his
+
+	poss	1 grandpa
+	poss	1 manner
+
+	agent	1 give
+	agent	1 forgot
+	agent	1 take
+	agent	1 sent
+	agent	1 arranged
+
+	patient	1 told
+	patient	1 worry
+
+
+577 9 Dodo she/her
+
+	poss	1 eyes
+
+	agent	2 followed
+	agent	1 liked
+	agent	1 squeezed
+	agent	1 caught
+	agent	1 remained
+
+
+	mod	1 playmate
+	mod	1 confidante
+	mod	1 reality
+	mod	1 grateful
+
+624 9 Miss Alcott she/her
+
+	poss	2 style
+	poss	1 writings
+	poss	1 life
+	poss	1 SKETCHES
+	poss	1 Camp
+	poss	1 stories
+	poss	1 girls
+	poss	1 work
+
+	agent	1 wrote
+
+
+
+189 8 Mrs. Gardiner she/her
+
+	poss	1 room
+	poss	1 daughters
+
+	agent	3 greeted
+	agent	1 sat
+	agent	1 handed
+
+
+	mod	1 happy
+
+263 8 Jenny she/her
+
+	poss	1 seat
+
+	agent	1 buried
+	agent	1 offered
+	agent	1 knew
+	agent	1 skip
+
+
+
+329 8 the Vaughns they/them/their
+
+	poss	1 hair
+
+	agent	1 hope
+	agent	1 disappointed
+	agent	1 do
+
+	patient	1 knew
+
+	mod	1 fine
+	mod	1 people
+	mod	1 rich
+
+498 8 Mees Marsch he/him/his
+
+	poss	1 master
+	poss	1 hat
+
+	agent	2 go
+	agent	1 laugh
+
+
+
+527 8 Laurie,—at he/him/his
+
+
+
+	patient	1 loved
+	patient	1 love
+
+	mod	1 fond
+	mod	1 good
+	mod	1 sometime
+
+609 8 Little Teddy he/him/his
+
+	poss	1 papa
+	poss	1 will
+
+	agent	1 bore
+	agent	1 turn
+	agent	1 received
+	agent	1 roved
+
+	patient	1 whisked
+	patient	1 received
+
+
+685 7 Miss Jo she/her
+
+
+	agent	1 said
+	agent	1 came
+	agent	1 rolled
+	agent	1 want
+
+	patient	1 settle
+
+
+209 7 papa he/him/his
+
+
+	agent	1 told
+	agent	1 believed
+
+	patient	1 gone
+
+	mod	1 rich
+
+299 7 Ferdinand Devereux he/him/his
+
+	poss	1 friends
+
+	agent	1 added
+	agent	1 wish
+	agent	1 win
+	agent	1 done
+	agent	1 have
+
+
+
+374 7 Lotty she/her
+
+
+	agent	1 rest
+	agent	1 gave
+	agent	1 stir
+	agent	1 eating
+	agent	1 reported
+	agent	1 bid
+
+	patient	1 despatched
+
+
+3159 7 Mrs. she/her
+
+	poss	1 pieces
+
+	agent	2 makes
+	agent	1 pointed
+	agent	1 does
+	agent	1 knows
+	agent	1 paid
+
+	patient	1 know
+
+
+465 7 Lennox,—and he/him/his
+
+	poss	1 shoes
+
+	agent	1 sighed
+	agent	1 sung
+	agent	1 flattered
+	agent	1 knew
+	agent	1 looked
+	agent	1 had
+
+	patient	1 flattered
+
+
+470 7 Minna she/her
+
+
+	agent	2 liked
+	agent	2 kissed
+	agent	1 got
+	agent	1 died
+
+	patient	1 see
+	patient	1 kissed
+
+
+550 7 Brookes they/them/their
+
+	poss	1 places
+
+	agent	1 walked
+	agent	1 took
+	agent	1 behaved
+
+
+	mod	1 children
+
+589 7 Beth she/her
+
+
+	agent	1 faded
+
+
+
+598 7 Mrs. Bhaer she/her
+
+	poss	1 wish
+
+	agent	1 think
+	agent	1 said
+	agent	1 resuming
+
+	patient	1 call
+
+
+198 6 Ellen Tree she/her
+
+
+	agent	1 turned
+
+
+	mod	1 crazy
+
+233 6 Bethy they/them/their
+
+	poss	1 troubles
+
+
+	patient	1 cry
+	patient	1 love
+	patient	1 remember
+
+
+255 6 the Hummels she/her
+
+
+
+	patient	1 see
+	patient	1 forgotten
+
+
+275 6 Clara she/her
+
+	poss	1 child
+
+	agent	1 told
+	agent	1 beg
+	agent	1 cried
+	agent	1 said
+
+
+
+297 6 Count Antonio he/him/his
+
+
+	agent	1 weds
+	agent	1 comes
+	agent	1 regards
+	agent	1 win
+
+	patient	1 envy
+
+
+304 6 Tupman he/him/his
+
+	poss	1 feet
+	poss	1 mind
+
+	agent	1 address
+	agent	1 made
+	agent	1 added
+
+	patient	1 brought
+
+
+334 6 the Americans they/them/their
+
+	poss	1 ball
+
+	agent	1 played
+	agent	1 contested
+	agent	1 invited
+	agent	1 had
+
+	patient	1 inspired
+
+	mod	1 simple
+	mod	1 natural
+
+354 6 Miss Burney she/her
+
+	poss	1 Evelina
+	poss	1 Painters
+	poss	1 tales
+
+	agent	1 felt
+	agent	1 did
+	agent	1 disposed
+
+
+
+7033 6 Aunt she/her
+
+
+	agent	2 gave
+	agent	2 like
+	agent	1 called
+	agent	1 kissed
+	agent	1 said
+
+
+
+393 6 Miss Randal she/her
+
+
+
+	patient	1 sent
+	patient	1 hate
+
+
+447 6 the Chesters they/them/their
+
+	poss	1 fair
+
+	agent	1 consider
+	agent	1 think
+	agent	1 want
+
+
+
+631 6 Beth she/her
+
+
+
+	patient	1 replaced
+
+
+175 5 Mercy she/her
+
+	poss	1 pilgrimage
+
+
+
+
+179 5 Apollyon they/them/their
+
+
+
+	patient	1 meets
+	patient	1 fighting
+	patient	1 Meets
+	patient	1 subdue
+
+
+223 5 Scrabble he/him/his
+
+	poss	1 hole
+	poss	1 way
+
+	agent	1 whisked
+	agent	1 promenaded
+
+
+
+235 5 the unworldly Marches he/him/his
+
+	poss	1 girls
+
+	agent	1 said
+	agent	1 give
+	agent	1 keep
+	agent	1 coming
+
+
+
+237 5 Josy - phine she/her
+
+
+
+	patient	1 saying
+
+
+296 5 Count de Adelon he/him/his
+
+	poss	1 lords
+	poss	1 ladies
+	poss	1 daughter
+
+	agent	1 spoke
+	agent	1 gathered
+
+
+
+341 5 Napoleon he/him/his
+
+	poss	1 coat
+	poss	1 baby
+	poss	1 toothbrush
+
+	agent	1 asked
+	agent	1 made
+
+
+
+411 5 Henshaw he/him/his
+
+
+	agent	1 made
+
+
+	mod	1 worth
+
+416 5 Germans they/them/their
+
+
+	agent	1 do
+	agent	1 give
+	agent	1 believe
+	agent	1 keep
+
+	patient	1 Bundle
+
+
+426 5 Mrs. Grundy she/her
+
+
+	agent	1 observe
+	agent	1 believe
+	agent	1 do
+
+
+
+7785 5 Aunt she/her
+
+
+	agent	2 writes
+	agent	1 says
+	agent	1 offers
+	agent	1 regretted
+	agent	1 think
+	agent	1 hates
+
+
+
+3575 5 Uncle he/him/his
+
+	poss	1 boots,—'No
+
+	agent	1 have
+
+	patient	1 Bless
+
+	mod	1 brewery
+
+474 5 Frank he/him/his
+
+
+	agent	1 limps
+	agent	1 uses
+	agent	1 devoted
+	agent	1 talked
+
+	patient	1 devoted
+
+
+483 5 Little Nap he/him/his
+
+	poss	1 tutor
+	poss	1 hand
+	poss	1 barouche
+
+	agent	1 passes
+
+
+	mod	1 boy
+
+544 5 Mrs. Scott she/her
+
+	poss	1 mission
+	poss	1 suppers
+
+	agent	1 performed
+
+
+	mod	1 girl
+
+547 5 Master Demi he/him/his
+
+
+	agent	1 discovered
+	agent	1 undertook
+	agent	1 got
+	agent	1 decided
+
+	patient	1 conquered
+
+
+552 5 little Baptiste he/him/his
+
+	poss	1 arms
+	poss	1 perch
+
+	agent	1 drive
+	agent	1 thought
+
+	patient	1 left
+
+
+563 5 Mozart he/him/his
+
+	poss	1 operas
+
+	agent	1 have
+	agent	1 took
+
+
+	mod	1 man
+
+173 4 JOHN S. P. ALCOTT he/him/his
+
+	poss	1 hands
+
+	agent	1 use
+
+
+	mod	1 late
+
+186 4 George he/him/his
+
+
+	agent	1 sends
+	agent	1 ravishing
+
+
+
+187 4 Pilgrim he/him/his
+
+	poss	3 Progress
+	poss	1 March
+
+
+
+
+5796 4 Aunt she/her
+
+	poss	1 nap
+
+	agent	1 woke
+	agent	1 told
+	agent	1 liked
+	agent	1 said
+
+
+
+250 4 Mr. Cutter he/him/his
+
+
+	agent	1 let
+	agent	1 disappointed
+
+	patient	1 asked
+
+
+256 4 the Laurences she/her
+
+	poss	1 door
+
+	agent	1 turned
+	agent	1 made
+
+
+
+260 4 The pianny she/her
+
+	poss	1 head
+	poss	1 mind
+
+	agent	1 turned
+	agent	1 gone
+
+
+
+272 4 Mr. Moffat he/him/his
+
+
+	agent	1 insisted
+	agent	1 had
+	agent	1 expressed
+
+
+	mod	1 gentleman
+	mod	1 old
+
+277 4 Mrs M. she/her
+
+	poss	1 plans
+	poss	1 cards
+
+	agent	2 made
+
+
+
+280 4 Hortense she/her
+
+	poss	1 hands
+
+	agent	1 added
+	agent	1 tied
+	agent	1 cried
+
+
+
+286 4 Charles Dickens he/him/his
+
+
+	agent	1 introdued
+
+	patient	1 admired
+
+
+314 4 Winkle he/him/his
+
+
+	agent	1 rose
+	agent	1 laugh
+	agent	1 make
+	agent	1 observes
+	agent	1 added
+
+
+
+328 4 Kate she/her
+
+
+	agent	1 play
+
+	patient	1 admire
+
+	mod	1 older
+
+1901 4 Miss Jo she/her
+
+	poss	1 ball
+
+
+	patient	2 settle
+
+
+368 4 Colonel Teddy he/him/his
+
+
+	agent	1 reviews
+	agent	1 joined
+
+
+
+64 4 Washington he/him/his
+
+
+
+
+	mod	1 way
+
+405 4 Laurie she/her
+
+	poss	1 bargains
+
+	agent	1 spoke
+
+	patient	1 meet
+
+
+457 4 Tommy Chamberlain he/him/his
+
+
+
+
+	mod	1 poor
+	mod	1 bashful
+	mod	1 gentleman
+
+463 4 French he/him/his
+
+
+	agent	1 think
+	agent	1 venture
+
+	patient	1 hates
+
+
+467 4 Lennox he/him/his
+
+	poss	1 friend
+	poss	1 compliments
+
+	agent	1 did
+	agent	1 got
+
+
+
+489 4 Cock Robin he/him/his
+
+	poss	1 footstool
+
+
+	patient	1 kept
+
+
+494 4 Minnie she/her
+
+
+	agent	1 regard
+	agent	1 tell
+	agent	1 introduced
+	agent	1 feeding
+	agent	1 said
+
+
+
+501 4 Franz she/her
+
+
+	agent	1 come
+
+
+	mod	1 lads
+
+502 4 Emil he/him/his
+
+
+	agent	1 come
+
+
+	mod	1 lads
+
+568 4 the Carrols they/them/their
+
+	poss	1 minds
+
+	agent	1 living
+	agent	1 changed
+	agent	1 decided
+
+
+
+169 3 David he/him/his
+
+
+	agent	1 refer
+
+
+
+172 3 Little Men they/them/their
+
+
+	agent	1 takes
+	agent	1 carries
+
+
+
+224 3 Christopher Columbus he/him/his
+
+
+
+	patient	1 say
+	patient	1 exclaimed
+
+
+15 3 Belsham she/her
+
+	poss	1 Essays
+
+
+
+
+240 3 Raphael he/him/his
+
+	poss	1 face
+	poss	1 cartoons
+
+	agent	1 had
+
+
+
+253 3 Tail - piece V. Being Neighborly he/him/his
+
+
+
+
+
+287 3 Samuel Pickwick she/her
+
+
+	agent	1 read
+
+	patient	1 introdued
+
+
+289 3 Tracy Tupman he/him/his
+
+
+	agent	1 comes
+
+
+
+300 3 the Earl of Devereux he/him/his
+
+	poss	1 name
+	poss	1 wealth
+
+	agent	1 gives
+
+	patient	1 refuse
+
+
+373 3 Lottchen she/her
+
+	poss	1 mother
+
+	agent	1 takes
+	agent	1 gets
+	agent	1 said
+
+
+
+384 3 Kitty Bryant she/her
+
+
+
+	patient	1 wish
+
+
+395 3 The Unquenchables they/them/their
+
+	poss	1 best
+
+	agent	1 done
+	agent	1 worked
+	agent	1 conjured
+
+
+
+430 3 Miss Eliott she/her
+
+
+	agent	1 found
+
+	patient	1 enjoy
+
+	mod	1 girl
+
+437 3 Mr. Allen he/him/his
+
+
+	agent	1 says
+	agent	1 tells
+	agent	1 knows
+	agent	1 do
+
+
+
+451 3 the Lambs they/them/their
+
+
+	agent	1 move
+	agent	1 fail
+	agent	1 say
+
+
+
+454 3 young Mr. Lamb he/him/his
+
+	poss	1 mother
+
+	agent	1 turned
+
+	patient	1 ask
+
+
+455 3 Miss Lamb she/her
+
+
+	agent	1 cried
+	agent	1 enjoyed
+
+	patient	1 observed
+
+
+7685 3 Aunt she/her
+
+	poss	1 pleasure
+
+	agent	1 likes
+
+
+
+7816 3 Uncle they/them/their
+
+
+	agent	1 rushed
+	agent	1 bought
+
+
+
+3609 3 Aunt he/him/his
+
+
+	agent	1 looked
+	agent	1 say
+
+
+	mod	1 cool
+
+3613 3 Aunt she/her
+
+	poss	1 pronunciation
+	poss	1 coat
+
+	agent	1 like
+
+
+
+578 3 Dranpa he/him/his
+
+
+	agent	1 took
+	agent	1 shouted
+
+
+
+594 3 Gott he/him/his
+
+	poss	1 name
+
+
+
+
+612 3 Tommy Bangs he/him/his
+
+
+	agent	1 smoke
+
+	patient	2 set
+
+
+622 3 Amy Illustrated she/her
+
+
+
+
+
+180 2 Little Faithful XVIII he/him/his
+
+
+
+
+
+204 2 evvybody she/her
+
+
+
+	patient	2 loves
+
+
+217 2 Goodness she/her
+
+
+	agent	2 knows
+
+
+
+222 2 The Laurence Boy he/him/his
+
+
+
+
+
+228 2 Dora she/her
+
+
+
+
+
+236 2 Uncle March he/him/his
+
+	poss	1 watch
+
+	agent	1 died
+
+
+
+245 2 Mrs. King she/her
+
+
+	agent	1 crying
+	agent	1 talking
+
+	patient	1 tell
+
+
+246 2 Mr. King he/him/his
+
+	poss	1 son
+
+	agent	1 talking
+
+
+
+252 2 Uncle Tom he/him/his
+
+
+
+
+
+261 2 Katy Brown she/her
+
+	poss	1 party
+
+	agent	1 invited
+
+
+
+264 2 Miss Snow she/her
+
+	poss	1 cutting
+
+
+
+
+266 2 Scarlet she/her
+
+
+	agent	1 lie
+
+
+
+270 2 Edgeworth she/her
+
+
+
+
+
+276 2 Major Lincoln he/him/his
+
+
+	agent	1 asked
+	agent	1 insisted
+	agent	1 passed
+	agent	1 wanted
+
+
+
+279 2 Cinderella she/her
+
+	poss	1 godmother
+
+
+
+
+283 2 Fisher he/him/his
+
+
+	agent	1 stooped
+
+
+
+288 2 Augustus Snodgrass he/him/his
+
+
+
+
+
+290 2 Nathaniel Winkle he/him/his
+
+
+
+
+
+305 2 N. Winkle he/him/his
+
+	poss	1 letter
+
+
+
+
+306 2 Mrs. Snowball Pat Paw she/her
+
+
+	agent	1 used
+
+
+
+308 2 Miss Oranthy Bluggage she/her
+
+	poss	1 Lecture
+
+	agent	1 deliver
+
+
+
+312 2 W. he/him/his
+
+	poss	1 dress
+
+	agent	1 fret
+
+
+
+313 2 Mr. President he/him/his
+
+
+	agent	1 wish
+	agent	1 gentlemen,—allow
+
+
+
+318 2 Milton he/him/his
+
+
+
+
+
+319 2 Shakespeare he/him/his
+
+
+
+
+
+322 2 Satan he/him/his
+
+
+	agent	1 found
+
+
+	mod	1 fond
+
+325 2 June she/her
+
+
+
+
+
+326 2 Plato he/him/his
+
+
+
+
+
+333 2 Freshmen they/them/their
+
+	poss	1 duty
+
+	agent	1 think
+
+
+
+6440 2 Miss Jo they/them/their
+
+
+	agent	1 owes
+
+	patient	1 finished
+
+
+340 2 Grandfather he/him/his
+
+
+	agent	1 asked
+	agent	1 finished
+
+
+
+342 2 Genius he/him/his
+
+
+	agent	1 wish
+	agent	1 smiled
+
+
+
+344 2 Schiller she/her
+
+	poss	1 statue
+	poss	1 Ariadne
+
+
+
+
+347 2 Hamlet he/him/his
+
+	poss	1 mother
+
+
+	patient	1 play
+
+
+349 2 Atalanta she/her
+
+	poss	1 face
+
+
+
+
+350 2 Belle Moffat they/them/their
+
+	poss	1 wedding
+
+
+
+
+353 2 Angelo he/him/his
+
+
+	agent	1 affirms
+
+
+
+379 2 Puck he/him/his
+
+
+
+
+
+383 2 Estelle she/her
+
+
+
+
+
+396 2 The Jungfrau she/her
+
+
+
+
+
+2628 2 Peg she/her
+
+	poss	1 makers
+
+	agent	1 made
+
+
+
+400 2 German he/him/his
+
+
+
+
+
+406 2 Mis . Brooke she/her
+
+
+	agent	1 came
+
+
+
+413 2 Mrs. Gummidge she/her
+
+	poss	1 water
+
+	agent	1 did
+
+
+
+414 2 Jupiter Ammon he/him/his
+
+
+
+
+
+415 2 Hercules he/him/his
+
+
+	agent	1 haunt
+
+	patient	1 warn
+
+
+423 2 Turner she/her
+
+
+	agent	1 appeared
+
+
+
+429 2 Jove he/him/his
+
+
+
+
+
+439 2 Mrs. Cornelius she/her
+
+	poss	1 Book
+
+
+
+
+445 2 Demijohn she/her
+
+
+
+	patient	1 Name
+
+
+468 2 Ward he/him/his
+
+
+
+	patient	1 replaced
+
+
+3611 2 Uncle he/him/his
+
+
+	agent	1 know
+	agent	1 insists
+
+	patient	1 understand
+
+
+484 2 Goethe he/him/his
+
+	poss	1 house
+	poss	1 statue
+
+
+
+
+493 2 Sancho he/him/his
+
+
+
+
+
+515 2 another Corinne , who was amiably satirizing her , after out - manœuvring her in efforts to absorb the profound philosopher , who imbibed tea Johnsonianly and appeared to slumber , the loquacity of the lady she/her
+
+
+
+
+
+538 2 Lady de Jones she/her
+
+	poss	1 family
+
+	agent	1 adorned
+
+
+
+540 2 The Serene Teuton he/him/his
+
+
+	agent	1 found
+	agent	1 dismayed
+	agent	1 committed
+
+
+
+545 2 the Scotts he/him/his
+
+
+	agent	1 came
+	agent	1 found
+
+
+
+55 2 Rome he/him/his
+
+
+	agent	2 took
+
+
+
+575 2 Peggotty she/her
+
+
+	agent	1 said
+	agent	1 refer
+
+
+
+595 2 Professorin she/her
+
+
+
+
+
+596 2 Death he/him/his
+
+
+	agent	1 canonized
+	agent	1 lay
+
+
+
+600 2 the Bhaers he/him/his
+
+
+	agent	1 turned
+	agent	1 made
+
+	patient	1 begging
+
+
+604 2 Mother Bhaer they/them/their
+
+
+	agent	1 forgiving
+
+
+
+610 2 Grandma she/her
+
+	poss	1 Beth
+
+
+	patient	1 had
+
+
+614 2 Rose in Bloom she/her
+
+
+
+
+
+615 2 Jill she/her
+
+
+
+
+
+621 2 LITTLE , BROWN he/him/his
+
+
+	agent	1 has
+
+
+
+623 2 Ben he/him/his
+
+	poss	1 dog
+
+	agent	1 run
+	agent	1 find
+
+
+
+627 2 The frivolous Ethel she/her
+
+	poss	1 companion
+
+	agent	1 learns
+
+
+
+635 2 Project Gutenberg he/him/his
+
+
+	agent	1 published
+
+
+
+636 2 Michael S. Hart he/him/his
+
+
+	agent	1 produced
+	agent	1 distributed
+
+
+	mod	1 originator
+	mod	1 concept
+

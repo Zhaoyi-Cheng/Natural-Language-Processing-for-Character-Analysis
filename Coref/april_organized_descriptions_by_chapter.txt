@@ -1,0 +1,721 @@
+Chapter item3:
+
+Chapter item4:
+  Wilkins:
+    - listless eye
+    - the case
+    - this sum
+    - that branch
+    - bodily eye
+    - least mind
+    - the middle
+    - and face
+    - the head
+    - the face
+    - not look
+    - with eyes
+    - to speak
+    - to speak
+    - Her eyes
+    - Her eyes
+    - set eyes
+    - freckled face
+    - grey eyes
+    - the eyes
+    - to give
+    - you see
+    - of hair
+    - to give
+    - to speak
+    - one side
+    - grey eyes
+    - a picture
+    - the expression
+    - the eyes
+    - and see
+    - come back
+    - you look
+    - one side
+    - odd talk
+    - a heading
+    - the heading
+    - returning hand
+    - in hand
+    - to see
+    - the look
+    - become second
+    - the second
+    - and see
+    - to talk
+    - grey eyes
+    - ever see
+    - a point
+    - can see
+    - you look
+
+Chapter item5:
+  Wilkins:
+    - unsteady mind
+    - getting back
+    - to speak
+    - of mind
+    - clear expression
+    - the eyes
+    - to mind
+    - a second
+    - came back
+    - come back
+    - not see
+    - to give
+    - the point
+    - had hand
+    - in hand
+    - the chief
+    - dear head
+
+Chapter item6:
+  Fisher:
+    - in front
+    - steady eyes
+    - this point
+    - firm hand
+    - quiet hands
+  Wilkins:
+    - to give
+    - to give
+    - not mind
+    - whose mind
+    - parted hair
+    - dark eyes
+    - this question
+    - fair hair
+    - to look
+    - shook hands
+    - Pretty name
+    - a case
+    - negligible sum
+    - the number
+    - great deal
+    - the heart
+    - could give
+    - or give
+    - to see
+    - to see
+
+Chapter item7:
+  Wilkins:
+    - to face
+    - the side
+    - to look
+    - the face
+    - to look
+    - the face
+    - coming back
+    - to give
+    - trembling mind
+    - not speak
+    - the form
+    - a second
+    - not speak
+    - in front
+    - coming back
+    - to give
+    - to talk
+    - to see
+    - a fig
+
+Chapter item8:
+  Wilkins:
+    - could see
+    - the middle
+    - not look
+    - one eye
+    - streaming talk
+    - to talk
+    - to look
+    - fatigued eyes
+    - the eyes
+    - just see
+    - and look
+    - and face
+    - a point
+    - the foot
+    - to see
+    - could see
+    - each side
+    - these men
+    - wicked men
+    - two men
+    - these men
+    - to see
+    - the middle
+    - good deal
+    - washing backwards
+    - an arm
+    - not see
+    - came back
+    - not see
+    - other side
+    - black shape
+    - either side
+    - blinking eyes
+    - to see
+    - stood arm
+
+Chapter item9:
+  Fisher:
+    - the back
+    - to see
+    - could speak
+    - not look
+    - of eyes
+    - should look
+    - went back
+  Wilkins:
+    - she see
+    - she see
+    - the name
+    - to see
+    - Her face
+    - Her face
+    - to visualise
+    - to see
+    - to visualise
+    - every expression
+    - by heart
+    - not see
+    - only see
+    - the image
+    - in front
+    - with hair
+    - to see
+    - as look
+    - rapt expression
+    - the middle
+    - were heart
+    - finally reach
+    - they talk
+    - the arm
+    - at hand
+    - and look
+    - And arm
+    - in arm
+    - fair hair
+    - grey eyes
+    - red mouth
+    - to see
+    - half second
+    - in hand
+    - wonder men
+    - to look
+
+Chapter item10:
+  Fisher:
+    - would lead
+    - the head
+    - either side
+    - the head
+    - the hand
+    - she mind
+    - she mind
+    - not mind
+    - either side
+    - Loose talk
+    - me give
+    - simple question
+    - parted hair
+    - gentle brow
+    - not hinder
+  Wilkins:
+    - to give
+    - downward face
+    - discursive brain
+    - to talk
+    - for support
+    - any case
+    - would see
+    - to see
+    - to look
+    - the second
+    - to see
+
+Chapter item11:
+  Fisher:
+    - new side
+    - way back
+    - very picture
+    - one side
+    - in case
+    - great deal
+    - Costanza back
+    - angel face
+    - I give
+    - to talk
+    - originals give
+    - one side
+    - came back
+    - be back
+    - could talk
+    - and talk
+    - other side
+    - its back
+    - its front
+    - a question
+    - and look
+    - would see
+    - to look
+  Wilkins:
+    - you see
+    - to mind
+    - least point
+    - either side
+    - now see
+    - each side
+    - would see
+    - to look
+
+Chapter item12:
+  Fisher:
+    - other side
+    - could see
+    - the point
+    - a second
+    - The second
+    - the eyes
+    - the present
+    - could talk
+    - great men
+    - could look
+    - each hand
+    - reasonable sum
+    - should cover
+    - to deal
+    - own handwriting
+    - the middle
+    - the head
+    - to look
+    - seen hair
+    - the hair
+    - little head
+    - little head
+    - the middle
+    - one eye
+    - and see
+    - the hand
+    - the hand
+  Wilkins:
+    - a second
+
+Chapter item13:
+  Fisher:
+    - not give
+    - it eyes
+    - to see
+    - a heart
+    - would give
+    - the form
+    - inflexible face
+    - the figure
+    - greatest men
+    - own eyes
+    - with men
+    - the front
+    - whose eyes
+    - the eyes
+    - this look
+    - whose hair
+    - Really men
+    - tiresome men
+    - with men
+    - would talk
+    - great name
+    - little eyes
+    - dropping back
+    - least mind
+    - of reach
+    - the present
+
+Chapter item14:
+  Fisher:
+    - to see
+    - the back
+  Wilkins:
+    - the middle
+    - an expression
+    - whose eyes
+    - a face
+    - discouraged talk
+    - to talk
+    - you see
+    - sandy hair
+    - bring back
+    - To see
+    - hurry back
+    - with eyes
+    - called back
+
+Chapter item15:
+  Fisher:
+    - great deal
+    - no men
+    - other mouth
+    - could see
+    - to give
+    - not talk
+    - to talk
+    - Silly talk
+    - and see
+    - no men
+    - to look
+    - whose hand
+    - not give
+    - to see
+    - the spirit
+  Wilkins:
+    - enchanting figure
+    - to see
+    - with men
+    - would give
+    - whose face
+    - This question
+    - not mind
+    - cheery affection
+    - other hand
+    - a second
+    - a support
+    - to support
+    - the question
+
+Chapter item16:
+  Fisher:
+    - parted hair
+    - mild expression
+    - offer back
+    - a question
+    - and back
+    - to see
+    - trotting backwards
+    - right arm
+    - to talk
+    - only look
+    - flat face
+    - in mind
+    - went back
+    - in front
+    - the promontory
+    - came back
+    - in front
+    - to see
+    - go back
+    - to mind
+    - not mind
+    - not mind
+    - not mind
+    - they talk
+    - not give
+    - through eyes
+    - could see
+    - dim eyes
+    - in figure
+    - all bosom
+    - dear head
+    - went back
+    - thrown back
+    - decent hair
+  Wilkins:
+    - flickering face
+    - and see
+    - and see
+    - Such talk
+    - other side
+    - would give
+    - outrageous number
+    - to talk
+    - and look
+
+Chapter item17:
+  Fisher:
+    - take cover
+    - went back
+    - one branch
+    - slight expression
+    - the second
+    - the figure
+    - shaking hands
+  Wilkins:
+    - and talk
+    - come back
+    - go back
+    - the middle
+    - the picture
+    - would look
+    - celestial legs
+    - the point
+    - cocked ear
+    - other side
+    - I give
+    - you see
+    - one side
+    - were present
+    - the head
+    - offered hand
+    - came back
+    - a second
+    - a second
+    - a second
+    - not see
+
+Chapter item18:
+  Fisher:
+    - great deal
+    - straight talk
+    - value men
+    - not reach
+    - to talk
+    - to deal
+    - be present
+    - the face
+    - not look
+  Wilkins:
+    - other men
+    - as men
+    - round eyes
+    - beautiful frame
+    - of mind
+    - Her face
+    - Her face
+    - the spirit
+    - the head
+    - the back
+    - the second
+    - gone back
+    - this sum
+    - easily reckon
+    - that case
+    - the name
+    - cigarette case
+    - to speak
+    - the men
+
+Chapter item19:
+  Fisher:
+    - that second
+    - the second
+    - that second
+    - that expression
+    - going back
+    - strange expression
+    - very mind
+    - On second
+    - any case
+    - this stage
+    - to talk
+    - could see
+    - professional point
+  Wilkins:
+    - good deal
+    - this second
+    - that second
+    - the hands
+    - or give
+    - to talk
+    - not head
+    - but bosom
+    - the bosom
+    - would look
+    - in spirit
+    - the second
+    - to face
+    - go back
+    - the form
+    - the form
+    - the question
+    - and talk
+    - could direct
+    - this point
+    - but see
+    - the affection
+    - the second
+    - that second
+
+Chapter item20:
+  Fisher:
+    - and look
+    - came back
+    - to see
+    - you speak
+    - go back
+    - would present
+  Wilkins:
+    - empty heart
+    - went back
+    - would give
+    - either side
+    - to see
+    - to see
+    - pretty name
+    - to look
+    - and see
+    - to see
+    - to see
+    - to see
+    - Her hair
+    - Her hair
+    - would look
+    - proper side
+    - the picture
+    - The expression
+    - to see
+    - you mind
+    - the face
+    - do see
+    - outstretched hand
+    - fair hair
+    - came back
+
+Chapter item21:
+  Fisher:
+    - liked men
+    - this side
+    - not mind
+    - got back
+    - coming back
+    - the back
+    - shaking hands
+    - and give
+    - great deal
+    - great deal
+  Wilkins:
+    - professional hands
+    - could see
+    - one hand
+    - other hand
+    - just look
+    - to see
+
+Chapter item22:
+  Fisher:
+    - full face
+    - the principal
+    - and see
+    - experienced eye
+    - go back
+    - being face
+    - to face
+    - to give
+    - going back
+    - to see
+    - pretty face
+  Wilkins:
+    - His eyes
+    - His eyes
+    - enchanting face
+    - pretty face
+    - motherly hand
+    - fair head
+    - and look
+    - a look
+    - the foot
+    - might picture
+    - himself back
+    - himself back
+    - the middle
+    - the front
+    - take cover
+    - could see
+    - come back
+    - to see
+    - could see
+    - the middle
+    - going back
+    - good deal
+    - His forehead
+    - His forehead
+    - just look
+    - and see
+    - the eyes
+    - and see
+    - possibly give
+    - might give
+    - the figure
+    - the figure
+    - such talk
+    - to look
+    - you see
+    - you see
+    - to see
+
+Chapter item23:
+  Fisher:
+    - could see
+    - brought back
+    - longer see
+    - to see
+    - be back
+    - soft heart
+    - energetic expression
+    - the figure
+    - Her mind
+    - Her mind
+    - only see
+    - Her mind
+    - Her mind
+    - not see
+    - very heart
+  Wilkins:
+    - in front
+
+Chapter item24:
+  Fisher:
+    - not look
+    - the head
+    - must lead
+    - expressive eyes
+    - growing look
+    - loveliest expression
+    - other side
+    - to look
+    - the eyes
+    - and look
+    - would look
+  Wilkins:
+    - a look
+    - both hands
+    - to see
+    - to see
+    - to see
+
+Chapter item25:
+  Fisher:
+    - Her face
+    - Her face
+    - to look
+    - three men
+    - the shape
+    - could see
+    - to give
+    - the second
+    - great deal
+    - the picture
+    - small sum
+    - warm hand
+    - would see
+    - To see
+    - The look
+    - Her face
+    - Her face
+  Wilkins:
+    - in front
+    - go back
+    - stern figure
+    - familiar talk
+    - to look
+    - to look
+    - special support
+    - set eyes
+    - grey eyes
+    - solemn face
+    - and look
+
+Chapter pg-footer:
+

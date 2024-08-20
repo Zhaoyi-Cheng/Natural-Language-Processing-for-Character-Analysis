@@ -1,0 +1,373 @@
+Chapter item3:
+
+Chapter item4:
+  Valancy:
+    - the heart
+    - red eyes
+    - blue eyes
+    - a face
+    - envious eyes
+    - by heart
+    - the heart
+    - have heart
+    - had heart
+    - on heart
+
+Chapter item5:
+  Valancy:
+    - the back
+    - pale mouth
+    - and mouth
+    - white face
+    - Your face
+    - and face
+
+Chapter item6:
+  Valancy:
+    - nothing back
+    - immortal heart
+    - drawn back
+
+Chapter item7:
+  Valancy:
+    - looked back
+
+Chapter item8:
+  Valancy:
+    - slanted eyes
+    - go back
+    - went back
+    - to face
+    - Her eyes
+    - Her eyes
+
+Chapter item9:
+  Valancy:
+    - the face
+    - wound back
+    - bare hair
+    - and hair
+    - leaning back
+    - longish hair
+    - neuralgic back
+
+Chapter item10:
+  Valancy:
+    - marched back
+    - Her lips
+    - Her lips
+    - a body
+    - Her heart
+    - Her heart
+    - of heart
+    - be back
+    - the back
+
+Chapter item11:
+  Valancy:
+    - would foot
+    - the heart
+    - thin arm
+    - Her face
+    - Her face
+    - thin hair
+
+Chapter item12:
+  Valancy:
+    - the hair
+    - trembling hands
+    - Valancy back
+
+Chapter item13:
+  Valancy:
+    - slanted eyes
+    - entirelyrightwith eyes
+    - new eyes
+    - under eyes
+    - grey hair
+    - chubby arms
+    - elfin eyes
+    - Her mouth
+    - Her mouth
+    - blue eyes
+    - scrawny arms
+
+Chapter item14:
+  Valancy:
+    - Richard back
+    - to back
+    - left hand
+    - grey hair
+    - an eye
+  Barney:
+    - up back
+    - and lips
+
+Chapter item15:
+
+Chapter item16:
+  Valancy:
+    - angry eyes
+    - funny eyes
+    - His mouth
+    - His mouth
+    - careful eye
+    - drove back
+
+Chapter item17:
+  Abel:
+    - of hair
+    - six feet
+    - the hands
+    - come back
+    - pale lips
+    - paw back
+
+Chapter item18:
+
+Chapter item19:
+  Valancy:
+    - blue eyes
+    - wasted face
+    - piteous eyes
+    - own eyes
+    - thin arms
+  Abel:
+    - running back
+
+Chapter item20:
+  Valancy:
+    - little hands
+  Abel:
+    - shaky back
+    - sassed back
+
+Chapter item21:
+  Valancy:
+    - Their eyes
+    - the back
+    - whose eyes
+    - old back
+
+Chapter item22:
+  Valancy:
+    - come back
+    - sinking heart
+    - lapse back
+  Abel:
+    - the back
+    - bird eyes
+
+Chapter item23:
+  Valancy:
+    - farms back
+    - and arms
+    - up back
+    - up back
+    - His face
+    - His face
+    - and body
+    - fools back
+  Barney:
+    - the heads
+    - apologetically back
+
+Chapter item24:
+  Valancy:
+    - the heart
+    - far back
+    - up back
+    - one eye
+    - drew back
+  Barney:
+    - up back
+    - comes back
+    - reached back
+
+Chapter item25:
+  Barney:
+    - His eyes
+    - His eyes
+    - a heart
+
+Chapter item26:
+  Valancy:
+    - gold hair
+    - dimpled hands
+    - little face
+    - little eyes
+    - little body
+    - wee face
+
+Chapter item27:
+  Valancy:
+    - No hands
+    - little body
+    - gone back
+    - slanted eyes
+    - took heart
+    - the back
+    - the heart
+
+Chapter item30:
+  Valancy:
+    - curious eyes
+    - anxious face
+    - choked back
+    - condescending hand
+    - stricken face
+    - such eyes
+    - getting back
+    - that blood
+    - up back
+  Barney:
+    - up back
+
+Chapter item31:
+  Valancy:
+    - the hands
+    - the back
+    - Her heart
+    - Her heart
+  Barney:
+    - the back
+    - Her eyes
+    - Her eyes
+
+Chapter item32:
+  Barney:
+    - bare feet
+
+Chapter item33:
+  Barney:
+    - get back
+    - Your eyes
+
+Chapter item34:
+  Valancy:
+    - human eyes
+    - on back
+  Barney:
+    - folded hands
+    - far back
+    - came back
+
+Chapter item35:
+  Valancy:
+    - the back
+    - come back
+  Barney:
+    - come back
+    - fun back
+    - it back
+    - be back
+    - Your eyes
+
+Chapter item36:
+  Valancy:
+    - black hair
+
+Chapter item37:
+  Valancy:
+    - head back
+    - slanted eyes
+  Barney:
+    - looked back
+    - away back
+    - a heart
+    - a heart
+
+Chapter item38:
+  Valancy:
+    - unseeing eyes
+    - best heart
+    - hiking back
+
+Chapter item39:
+
+Chapter item40:
+  Valancy:
+    - hopeless eyes
+  Barney:
+    - woman face
+    - to face
+
+Chapter item41:
+  Valancy:
+    - the back
+    - the face
+    - the back
+    - a face
+    - blue eyes
+    - that face
+    - plump hand
+    - of hair
+    - the back
+    - come back
+    - the heart
+    - coming back
+    - coming back
+    - come back
+    - no hand
+    - come back
+    - be back
+    - the back
+    - get back
+    - come back
+  Barney:
+    - come back
+    - go back
+    - went back
+
+Chapter item42:
+  Barney:
+    - coming back
+    - go back
+
+Chapter item43:
+  Valancy:
+    - the eyes
+    - Valancy back
+    - the arms
+    - come back
+  Barney:
+    - go back
+    - go back
+    - a hand
+
+Chapter item44:
+  Barney:
+    - black eyes
+    - shining hair
+
+Chapter item45:
+  Valancy:
+    - brown hands
+    - came back
+    - go back
+    - dull eyes
+    - of body
+    - furious face
+  Barney:
+    - go back
+    - resolute face
+    - go back
+    - to face
+    - little face
+    - Sneering lips
+    - tiptoed back
+
+Chapter item46:
+  Valancy:
+    - in hand
+
+Chapter item47:
+
+Chapter item48:
+  Valancy:
+    - be back
+  Barney:
+    - came back
+
+Chapter pg-footer:
+

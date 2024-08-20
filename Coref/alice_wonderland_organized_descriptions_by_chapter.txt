@@ -1,0 +1,203 @@
+Chapter item3:
+  Alice:
+    - own mind
+    - pink eyes
+    - to look
+    - to look
+    - the centre
+    - walking hand
+    - in hand
+    - one side
+    - the neck
+    - possibly reach
+    - in crying
+    - bring tears
+    - can reach
+
+Chapter item4:
+  Alice:
+    - to speak
+    - great deal
+    - to look
+    - on crying
+    - one hand
+    - next question
+    - with tears
+    - only look
+    - good deal
+    - that case
+    - of tears
+    - ifIwould talk
+    - its face
+
+Chapter item5:
+  Alice:
+    - first question
+    - the middle
+    - The question
+    - its head
+    - This question
+    - great deal
+    - to give
+    - its head
+    - to talk
+    - as look
+
+Chapter item6:
+  Alice:
+    - bright brass
+    - other arm
+    - one arm
+    - one foot
+    - the middle
+    - one side
+    - to look
+    - an arm
+    - a deal
+    - the face
+    - which case
+    - tumbled head
+    - great eyes
+    - great question
+    - great question
+    - well look
+    - its arms
+
+Chapter item7:
+  Alice:
+    - its mouth
+    - each case
+    - to speak
+    - its mouth
+    - to speak
+    - its mouth
+    - other side
+    - other side
+    - difficult question
+    - each hand
+    - good deal
+    - Her chin
+    - Her chin
+    - a neck
+    - good deal
+
+Chapter item8:
+  Alice:
+    - large eyes
+    - powdered hair
+    - same side
+    - from ear
+    - to ear
+    - to speak
+    - a deal
+    - its arms
+    - right ear
+    - its face
+    - its eyes
+    - the look
+    - its eyes
+    - any tears
+    - no tears
+    - its face
+    - good deal
+    - another question
+    - a branch
+  Hatter:
+    - right paw
+
+Chapter item9:
+  Alice:
+    - a foot
+  Hatter:
+    - in front
+    - its head
+    - the case
+    - its nose
+    - its head
+    - I give
+    - good deal
+    - its eyes
+
+Chapter item10:
+  Alice:
+    - along hand
+    - one foot
+    - the question
+    - The chief
+    - its neck
+    - to give
+    - and look
+    - puzzled expression
+    - its head
+    - to talk
+    - was mouth
+    - to speak
+    - the eyes
+    - whole head
+    - the look
+    - may look
+    - the look
+    - other side
+    - this side
+    - a head
+    - a head
+    - to talk
+    - party look
+
+Chapter item11:
+  Alice:
+    - to talk
+    - sharp chin
+    - little chin
+    - a present
+    - little chin
+    - the middle
+    - the arm
+    - in front
+    - I give
+    - into custody
+    - in custody
+    - the look
+    - could speak
+  the Mock Turtle:
+    - large eyes
+
+Chapter item12:
+  Alice:
+    - will talk
+  the Mock Turtle:
+    - with tears
+    - a look
+    - other side
+    - not give
+
+Chapter item13:
+  Alice:
+    - very middle
+    - to look
+    - to pass
+    - not look
+    - good deal
+    - other side
+  Hatter:
+    - great deal
+    - one hand
+    - one foot
+    - the mouth
+    - anxious look
+
+Chapter item14:
+  Alice:
+    - in head
+    - its mouth
+    - to look
+    - of hands
+    - I look
+    - tiny hands
+    - eager eyes
+    - wandering hair
+  the Mock Turtle:
+    - loving heart
+
+Chapter pg-footer:
+

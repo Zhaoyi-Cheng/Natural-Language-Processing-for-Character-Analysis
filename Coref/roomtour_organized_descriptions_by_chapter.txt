@@ -1,0 +1,536 @@
+Chapter item3:
+
+Chapter item4:
+  Lucy:
+    - must look
+    - shaven face
+    - large eyes
+    - to speak
+    - the question
+    - Her face
+    - Her face
+    - the meat
+    - wrote back
+    - to talk
+    - to give
+    - turned back
+    - narrow head
+    - drove backwards
+    - who speak
+    - every point
+    - you look
+    - holding back
+    - to look
+    - a principal
+    - rebellious spirit
+    - things lead
+  George:
+    - dazed expression
+    - not look
+    - to talk
+
+Chapter item5:
+  Lucy:
+    - this point
+    - dirty back
+    - the side
+    - The men
+    - white arms
+    - farther side
+    - to speak
+    - turn back
+    - the arm
+    - a side
+    - would lead
+    - a look
+    - a question
+    - the spirit
+    - into tenderness
+    - come back
+    - to give
+    - that lead
+    - the point
+  George:
+    - better speak
+    - we talk
+    - come back
+    - he look
+    - he look
+    - the side
+
+Chapter item6:
+  Lucy:
+    - we look
+    - the side
+    - and direct
+    - undeveloped face
+    - a stock
+    - to look
+    - whose head
+    - sat back
+    - the point
+    - to speak
+    - to talk
+    - nice men
+    - a point
+    - the question
+    - not mind
+    - The case
+    - two men
+    - one eye
+
+Chapter item7:
+  Lucy:
+    - this point
+    - the men
+    - a look
+    - come back
+    - she talk
+    - she talk
+    - of blood
+    - Her heart
+    - Her heart
+    - with blood
+    - did mind
+    - must face
+    - to look
+    - the blood
+    - to question
+  George:
+    - no point
+    - His hand
+    - His hand
+
+Chapter item8:
+  Lucy:
+    - to face
+    - startled eyes
+    - to look
+    - human heart
+    - good deal
+    - two men
+    - to talk
+    - a deal
+    - me give
+    - At present
+    - long talk
+    - and back
+    - a point
+    - and give
+    - to speak
+    - the question
+    - handsome face
+    - after blood
+    - working men
+    - to look
+    - dramatic point
+    - might lead
+    - any case
+    - with essence
+    - the heart
+    - way back
+    - presiding genius
+  George:
+    - the chief
+
+Chapter item9:
+  Lucy:
+    - to talk
+    - martyred look
+    - piteous eyes
+    - this point
+    - the back
+    - to support
+    - scant support
+    - the face
+    - the mouth
+    - not speak
+    - for support
+    - to talk
+    - a promontory
+    - an eye
+    - the question
+    - to look
+    - not look
+    - His face
+    - His face
+    - His arm
+    - His arm
+    - to pick
+    - and direct
+    - His arm
+    - His arm
+    - Good men
+    - holding back
+  George:
+    - to pass
+    - a look
+    - mordant wit
+    - at present
+    - gone back
+
+Chapter item10:
+  Lucy:
+    - questioning eye
+    - small talk
+    - heated aspect
+    - Once back
+    - black head
+    - in front
+    - way back
+    - will talk
+    - with hands
+    - will give
+    - the question
+    - that talk
+    - to speak
+    - what men
+    - the side
+    - could give
+    - with tenderness
+    - great deal
+    - never face
+    - in case
+    - never speak
+    - To reach
+  George:
+    - the game
+    - would look
+    - and support
+    - should speak
+    - some men
+    - must face
+    - tired eyes
+    - At present
+    - not pass
+
+Chapter item11:
+  Lucy:
+    - I mind
+    - in case
+    - me talk
+    - who speak
+    - very heart
+    - The chief
+    - in case
+    - be present
+  Cecil:
+    - you talk
+    - went back
+    - I look
+    - the back
+    - one talk
+    - each side
+    - a head
+    - and look
+    - a hand
+    - the middle
+    - we look
+    - At present
+    - at present
+    - to reach
+
+Chapter item12:
+  Lucy:
+    - placidly back
+    - flushed face
+    - a question
+    - third side
+    - the present
+    - good deal
+    - seamy side
+    - would give
+    - the essence
+    - bald head
+    - revere men
+  Cecil:
+    - fair face
+    - The spirit
+    - the point
+    - the front
+    - and centre
+    - a second
+    - the foundation
+    - lower middle
+    - Lucy back
+    - You talk
+    - its bosom
+    - good deal
+
+Chapter item13:
+  Lucy:
+    - to speak
+    - new eyes
+    - a tenderness
+    - to talk
+    - the back
+    - a promontory
+    - the second
+    - no second
+    - a second
+    - Her face
+    - Her face
+  Cecil:
+    - in case
+    - me look
+
+Chapter item14:
+  Lucy:
+    - strong head
+    - one cheek
+  Cecil:
+    - and look
+    - the talk
+    - and pick
+
+Chapter item15:
+  Lucy:
+    - came back
+    - can talk
+    - the blood
+  Cecil:
+    - must lead
+    - jumped back
+    - nonchalant expression
+    - freckled face
+  George:
+    - the hand
+    - between men
+    - the body
+    - the game
+    - them back
+    - Bring back
+    - would utter
+    - to talk
+    - me give
+    - you talk
+    - either side
+    - the question
+    - a second
+    - young men
+
+Chapter item16:
+  Lucy:
+    - I speak
+    - the middle
+    - would pass
+    - you talk
+    - the hands
+    - the meat
+    - to give
+  Cecil:
+    - The question
+    - came back
+    - the case
+    - the men
+    - very eyes
+    - the spirit
+    - the substance
+    - and give
+    - in point
+  George:
+    - a face
+    - shake hands
+
+Chapter item17:
+  Lucy:
+    - one give
+    - to give
+    - whose face
+    - to stifle
+    - one give
+  Cecil:
+    - you give
+    - to look
+    - always look
+    - the arm
+  George:
+    - will face
+    - young men
+
+Chapter item18:
+  Lucy:
+    - Her eyes
+    - Her eyes
+    - human eye
+    - one give
+    - Women mind
+    - against affection
+    - even men
+    - Her brain
+    - Her brain
+    - fall back
+    - father talk
+  Cecil:
+    - a line
+    - celebrated men
+    - the arms
+    - black head
+    - to lead
+    - that men
+  George:
+    - to give
+    - never mind
+    - you mind
+    - to give
+    - of men
+    - would talk
+    - to talk
+    - new game
+    - a point
+    - you mind
+    - manly arms
+    - go back
+    - the second
+
+Chapter item19:
+  Lucy:
+    - to stifle
+    - at heart
+    - The question
+    - you speak
+    - you speak
+    - will speak
+    - you mind
+    - a second
+    - will give
+    - even talk
+    - The line
+    - cultivated talk
+    - and men
+    - to talk
+    - the front
+  Cecil:
+    - must stifle
+    - that men
+    - clasped hands
+    - to give
+    - held back
+    - Europe back
+    - this second
+    - going back
+    - narrow head
+    - drove backwards
+
+Chapter item20:
+  Lucy:
+    - But give
+    - to speak
+    - to speak
+    - of men
+    - no question
+    - other hand
+  Cecil:
+    - to talk
+    - never mind
+    - me talk
+    - a point
+    - must speak
+    - thoughtful face
+    - His brain
+    - His brain
+    - horrified look
+    - will question
+    - to face
+    - a question
+    - a look
+  George:
+    - the heart
+
+Chapter item21:
+  Lucy:
+    - in case
+    - two men
+    - of heart
+    - dark head
+    - sincere expression
+    - to talk
+    - to speak
+    - the present
+    - no question
+    - not mind
+    - really give
+    - would hand
+    - the point
+    - to talk
+    - go back
+    - grosser mind
+    - should talk
+    - and hand
+    - and hand
+    - and hand
+  Cecil:
+    - a trunk
+    - shook hands
+    - not speak
+    - either case
+    - and give
+    - young men
+    - running back
+    - the bosom
+    - own mind
+    - the case
+  George:
+    - would give
+
+Chapter item22:
+  Lucy:
+    - this point
+    - of men
+    - come back
+    - taking back
+    - the point
+    - to pick
+    - sank back
+    - to sum
+    - to look
+    - book back
+    - His face
+    - His face
+    - slip back
+    - unwavering eyes
+    - go back
+    - the present
+    - can reach
+    - the body
+    - A look
+    - the face
+  Cecil:
+    - the brain
+    - the brain
+  George:
+    - might lead
+    - should look
+    - this spirit
+    - Her eyes
+    - Her eyes
+    - And look
+    - go back
+    - a look
+    - came back
+    - to face
+    - I look
+    - to pick
+    - boy body
+    - own eyes
+    - the body
+    - of direct
+
+Chapter item23:
+  Lucy:
+    - and look
+  Cecil:
+    - the second
+    - will men
+    - about men
+    - come back
+    - came back
+    - turned back
+  George:
+    - a line
+    - own hands
+    - desultory talk
+    - to reach
+
+Chapter pg-footer:
+
